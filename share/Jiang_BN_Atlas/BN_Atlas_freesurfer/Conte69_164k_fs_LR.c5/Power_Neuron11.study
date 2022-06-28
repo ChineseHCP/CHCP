@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StudyMetaData_File>
+   <FileHeader>
+      <Element>
+         <Name><![CDATA[Caret-Version]]></Name>
+         <Value><![CDATA[5.64]]></Value>
+      </Element>
+      <Element>
+         <Name><![CDATA[Date]]></Name>
+         <Value><![CDATA[2012-04-16T18:14:34]]></Value>
+      </Element>
+      <Element>
+         <Name><![CDATA[comment]]></Name>
+         <Value><![CDATA[]]></Value>
+      </Element>
+      <Element>
+         <Name><![CDATA[encoding]]></Name>
+         <Value><![CDATA[XML]]></Value>
+      </Element>
+      <Element>
+         <Name><![CDATA[pubmed_id]]></Name>
+         <Value><![CDATA[]]></Value>
+      </Element>
+   </FileHeader>
+   <StudyMetaData>
+      <authors><![CDATA[Power JD, Cohen AL, Nelson SM, Wig GS, Barnes KA, Church JA, Vogel AC, Laumann TO, Miezin FM, Schlaggar BL, Petersen SE]]></authors>
+      <citation><![CDATA[Neuron 2011; 72:665-78]]></citation>
+      <comment><![CDATA[Real-world complex systems may be mathematically modeled as graphs, revealing properties of the system. Here we study graphs of functional brain organization in healthy adults using resting state functional connectivity MRI. We propose two novel brain-wide graphs, one of 264 putative functional areas, the other a modification of voxelwise networks that eliminates potentially artificial short-distance relationships. These graphs contain many subgraphs in good agreement with known functional brain systems. Other subgraphs lack established functional identities; we suggest possible functional characteristics for these subgraphs. Further, graph measures of the areal network indicate that the default mode subgraph shares network properties with sensory and motor subgraphs: it is internally integrated but isolated from other subgraphs, much like a "processing" system. The modified voxelwise graph also reveals spatial motifs in the patterning of systems across the cortex.Copyright © 2011 Elsevier Inc. All rights reserved.]]></comment>
+      <dateAndTimeStamps><![CDATA[16_Apr_2012_18_14_34;16_Apr_2012_18_14_15;]]></dateAndTimeStamps>
+      <documentObjectIdentifier><![CDATA[10.1016/j.neuron.2011.09.006]]></documentObjectIdentifier>
+      <keywords><![CDATA[]]></keywords>
+      <mesh><![CDATA[Brain: cytology, physiology; Magnetic Resonance Imaging: methods; Nerve Net: cytology, physiology; Psychomotor Performance: physiology]]></mesh>
+      <name><![CDATA[Power_Neuron11]]></name>
+      <partitioningSchemeAbbreviation><![CDATA[]]></partitioningSchemeAbbreviation>
+      <partitioningSchemeFullName><![CDATA[]]></partitioningSchemeFullName>
+      <projectID><![CDATA[ProjID20120416181117800000]]></projectID>
+      <pubMedID><![CDATA[22099467]]></pubMedID>
+      <quality><![CDATA[]]></quality>
+      <species><![CDATA[Human]]></species>
+      <stereotaxicSpace><![CDATA[MRITOTAL]]></stereotaxicSpace>
+      <stereotaxicSpaceDetails><![CDATA[]]></stereotaxicSpaceDetails>
+      <studyDataFormat><![CDATA[Surface]]></studyDataFormat>
+      <studyDataType><![CDATA[Partitioning Scheme; fMRI]]></studyDataType>
+      <title><![CDATA[Functional network organization of the human brain.]]></title>
+      <mslID><![CDATA[]]></mslID>
+      <parentID><![CDATA[]]></parentID>
+      <coreDataCompleted><![CDATA[]]></coreDataCompleted>
+      <completed><![CDATA[]]></completed>
+      <publicAccess><![CDATA[]]></publicAccess>
+      <StudyMetaDataProvenance>
+         <name><![CDATA[vanessen]]></name>
+         <date><![CDATA[16 Apr 2012]]></date>
+         <comment><![CDATA[]]></comment>
+      </StudyMetaDataProvenance>
+   </StudyMetaData>
+</StudyMetaData_File>

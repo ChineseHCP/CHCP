@@ -1,0 +1,52 @@
+DTI=/meizhen_data/DTI/chcp_add2/;
+DATA=/meizhen_data/Indipar/Data/add2/;
+SUB_LIST=$DATA/a_code/sub_chcp_add2.txt;
+
+# chcp_pre=/md_disk3/guoyuan/CHCP_pre;
+
+for sub in `cat ${SUB_LIST}`
+do
+{
+mkdir $DTI/$sub;
+cp -r /chcp_pre/$sub/T1w/T1w_acpc_dc_restore_brain.nii.gz $DTI/$sub/T1_brain.nii.gz;
+#mv /home/humanbrain/meizhen/DTI/Data/$sub/T1w_acpc_dc_restore_brain.nii.gz /home/humanbrain/meizhen/DTI/Data/$sub/T1_brain.nii.gz;
+cp -r /chcp_pre/$sub/T1w/Diffusion/data.nii.gz $DTI/$sub/data.nii.gz;
+cp -r /chcp_pre/$sub/T1w/Diffusion/nodif_brain_mask.nii.gz $DTI/$sub/nodif_brain_mask.nii.gz;
+cp -r /chcp_pre/$sub/T1w/Diffusion.bedpostX $DTI/$sub;
+}
+done
+
+
+# prepare nodif_brain.nii.gz
+for sub_num in `cat ${SUB_LIST}`
+do
+{
+sub_path=$DTI/$sub_num;
+cd $sub_path;
+fslroi data.nii.gz nodif1 0 1 
+fslroi data.nii.gz nodif2 1 1
+fslroi data.nii.gz nodif3 100 1 
+fslroi data.nii.gz nodif4 101 1
+fslmerge -t nodif nodif1.nii.gz nodif2.nii.gz nodif3.nii.gz nodif4.nii.gz 
+fslmaths nodif -Tmean nodif_mean
+fslmaths nodif_mean -mul nodif_brain_mask.nii.gz nodif_brain
+echo $sub_num;
+}
+done
+
+
+for sub in `cat ${SUB_LIST}`
+do
+{
+mkdir $DATA/$sub;
+mkdir $DATA/$sub/${sub}_indipar_mask;
+gunzip $DTI/$sub/nodif_brain.nii.gz;
+gunzip $DTI/$sub/T1_brain.nii.gz;
+cp $DTI/$sub/nodif_brain.nii $DATA/$sub/b0_brain.nii;
+cp /chcp_pre/$sub/T1w/aparc+aseg.nii.gz $DATA/$sub/${sub}_indipar_mask;
+gunzip $DATA/$sub/${sub}_indipar_mask/aparc+aseg.nii.gz;
+echo $sub;
+}
+done
+
+

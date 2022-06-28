@@ -1,0 +1,1751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Foci_Projection_File>
+   <FileHeader>
+      <Element>
+         <Name><![CDATA[Caret-Version]]></Name>
+         <Value><![CDATA[5.64]]></Value>
+      </Element>
+      <Element>
+         <Name><![CDATA[Date]]></Name>
+         <Value><![CDATA[2012-05-20T18:03:18]]></Value>
+      </Element>
+      <Element>
+         <Name><![CDATA[comment]]></Name>
+         <Value><![CDATA[DVE (14May2012): Extracted from Matt Glasser's AllZillesFoci.fociproj in
+/Volumes/vip6/Mount/myelin/brainmappers/OldFiles/MyelinMapping_Project/CommonFiles2/FS_LR
+Split into left, right hemispheres
+Deleted duplicate copies of foci
+Renamed foci, added study-specific class names]]></Value>
+      </Element>
+      <Element>
+         <Name><![CDATA[encoding]]></Name>
+         <Value><![CDATA[XML]]></Value>
+      </Element>
+      <Element>
+         <Name><![CDATA[pubmed_id]]></Name>
+         <Value><![CDATA[]]></Value>
+      </Element>
+   </FileHeader>
+   <CellProjection>
+      <cellProjNumber>0</cellProjNumber>
+      <projectionType><![CDATA[OUTSIDE]]></projectionType>
+      <closestTileVertices>0 0 0</closestTileVertices>
+      <closestTileAreas>0.0 0.0 0.0</closestTileAreas>
+      <cdistance>0.0 0.0 0.0</cdistance>
+      <dR>2.236592</dR>
+      <triFiducial>-35.028828 -51.177349 37.730339 -35.563351 -51.393234 37.955082 -35.181129 -50.787319 37.591362 -35.563351 -51.393234 37.955082 -35.706318 -51.020882 37.815819 -35.181129 -50.787319 37.591362</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.016723</phiR>
+      <triVertices>69594 69494 69595 69494 69495 69595</triVertices>
+      <vertex>69595 69494</vertex>
+      <vertexFiducial>-35.181129 -50.787319 37.591362 -35.563351 -51.393234 37.955082</vertexFiducial>
+      <posFiducial>-36.299999 -53.099998 36.400002</posFiducial>
+      <fracRI>2.162017</fracRI>
+      <fracRJ>1.162017</fracRJ>
+      <volumeXYZ>-36.299999 -53.099998 36.400002</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-36.299999 -53.099998 36.400002]]></xyz>
+         <SearchXYZ><![CDATA[-36.483601 -52.993435 36.384583]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[AIPS_IP1]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-2.229708]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>1</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>34266 34267 34386</closestTileVertices>
+      <closestTileAreas>0.001333 0.08896 0.014233</closestTileAreas>
+      <cdistance>-1.932478 0.464891 -1.936872</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-45.299999 -44.200001 41.5</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-45.299999 -44.200001 41.5</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-45.299999 -44.200001 41.5]]></xyz>
+         <SearchXYZ><![CDATA[-45.299995 -44.199997 41.499996]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[AIPS_IP2]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-2.775260]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>2</cellProjNumber>
+      <projectionType><![CDATA[OUTSIDE]]></projectionType>
+      <closestTileVertices>0 0 0</closestTileVertices>
+      <closestTileAreas>0.0 0.0 0.0</closestTileAreas>
+      <cdistance>0.0 0.0 0.0</cdistance>
+      <dR>3.292848</dR>
+      <triFiducial>-28.182264 -53.894756 48.606018 -28.283318 -53.501629 48.719559 -28.410627 -53.549469 49.313519 -28.182264 -53.894756 48.606018 -28.073473 -53.869801 48.021557 -28.283318 -53.501629 48.719559</triFiducial>
+      <thetaR>0.069851</thetaR>
+      <phiR>0.034622</phiR>
+      <triVertices>71976 71977 72048 71976 71904 71977</triVertices>
+      <vertex>71977 71976</vertex>
+      <vertexFiducial>-28.283318 -53.501629 48.719559 -28.182264 -53.894756 48.606018</vertexFiducial>
+      <posFiducial>-31.1 -55.599998 47.799999</posFiducial>
+      <fracRI>3.628988</fracRI>
+      <fracRJ>2.628988</fracRJ>
+      <volumeXYZ>-31.1 -55.599998 47.799999</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-31.1 -55.599998 47.799999]]></xyz>
+         <SearchXYZ><![CDATA[-31.100002 -55.599995 47.799999]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[AIPS_IP3]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[3.294433]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>3</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>92998 92889 92999</closestTileVertices>
+      <closestTileAreas>0.107062 0.143129 0.024579</closestTileAreas>
+      <cdistance>-0.193632 -0.710625 0.059157</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-51.799999 12.0 13.3</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-51.799999 12.0 13.3</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-51.799999 12.0 13.3]]></xyz>
+         <SearchXYZ><![CDATA[-51.799999 11.999998 13.299999]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Broca_44]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[0.738905]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>4</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>55920 55853 55921</closestTileVertices>
+      <closestTileAreas>0.146136 0.026212 0.032636</closestTileAreas>
+      <cdistance>-0.000413 0.01065 0.009746</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-49.099998 27.0 4.32</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-49.099998 27.0 4.32</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-49.099998 27.0 4.32]]></xyz>
+         <SearchXYZ><![CDATA[-49.099998 27.0 4.32]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Broca_45]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-0.014442]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>5</cellProjNumber>
+      <projectionType><![CDATA[OUTSIDE]]></projectionType>
+      <closestTileVertices>0 0 0</closestTileVertices>
+      <closestTileAreas>0.0 0.0 0.0</closestTileAreas>
+      <cdistance>0.0 0.0 0.0</cdistance>
+      <dR>3.042986</dR>
+      <triFiducial>-10.584467 -81.451057 2.916845 -10.999933 -81.917824 2.970667 -11.003332 -81.328918 3.290061 -10.584467 -81.451057 2.916845 -10.628675 -82.039452 2.590774 -10.999933 -81.917824 2.970667</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.060623</phiR>
+      <triVertices>128244 128245 128327 128244 128161 128245</triVertices>
+      <vertex>128245 128244</vertex>
+      <vertexFiducial>-10.999933 -81.917824 2.970667 -10.584467 -81.451057 2.916845</vertexFiducial>
+      <posFiducial>-14.4 -81.900002 1.5</posFiducial>
+      <fracRI>3.3686</fracRI>
+      <fracRJ>4.3686</fracRJ>
+      <volumeXYZ>-14.4 -81.900002 1.5</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-14.4 -81.900002 1.5]]></xyz>
+         <SearchXYZ><![CDATA[-14.051486 -82.279213 0.901596]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[hOC1]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-3.450548]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>6</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>128329 128330 128411</closestTileVertices>
+      <closestTileAreas>0.042659 0.065174 0.036784</closestTileAreas>
+      <cdistance>-2.421693 0.028475 -1.230449</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-14.2 -82.199997 2.72</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-14.2 -82.199997 2.72</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-14.2 -82.199997 2.72]]></xyz>
+         <SearchXYZ><![CDATA[-14.199999 -82.199997 2.72]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[hOC2]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-2.716507]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>7</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>122418 122367 122419</closestTileVertices>
+      <closestTileAreas>0.011093 0.078714 0.056948</closestTileAreas>
+      <cdistance>-1.809875 0.106599 1.447213</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-23.5 -84.900002 -9.9</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-23.5 -84.900002 -9.9</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-23.5 -84.900002 -9.9]]></xyz>
+         <SearchXYZ><![CDATA[-23.5 -84.900002 -9.9]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[hOC3v]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-2.319793]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>8</cellProjNumber>
+      <projectionType><![CDATA[OUTSIDE]]></projectionType>
+      <closestTileVertices>0 0 0</closestTileVertices>
+      <closestTileAreas>0.0 0.0 0.0</closestTileAreas>
+      <cdistance>0.0 0.0 0.0</cdistance>
+      <dR>0.261658</dR>
+      <triFiducial>-30.627628 -82.179955 -11.986005 -30.590332 -82.573723 -12.241435 -29.615734 -82.800041 -12.213402 -30.627628 -82.179955 -11.986005 -29.615734 -82.800041 -12.213402 -29.685465 -82.421234 -11.942117</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.07266</phiR>
+      <triVertices>122030 121972 122031 122030 122031 122088</triVertices>
+      <vertex>122030 122031</vertex>
+      <vertexFiducial>-30.627628 -82.179955 -11.986005 -29.615734 -82.800041 -12.213402</vertexFiducial>
+      <posFiducial>-32.400002 -81.400002 -11.6</posFiducial>
+      <fracRI>1.619609</fracRI>
+      <fracRJ>2.619608</fracRJ>
+      <volumeXYZ>-32.400002 -81.400002 -11.6</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-32.400002 -81.400002 -11.6]]></xyz>
+         <SearchXYZ><![CDATA[-32.305992 -81.319046 -11.402431]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[hOC4]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-0.374211]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>9</cellProjNumber>
+      <projectionType><![CDATA[OUTSIDE]]></projectionType>
+      <closestTileVertices>0 0 0</closestTileVertices>
+      <closestTileAreas>0.0 0.0 0.0</closestTileAreas>
+      <cdistance>0.0 0.0 0.0</cdistance>
+      <dR>5.976234</dR>
+      <triFiducial>-49.314579 -65.009758 -0.112832 -49.031506 -64.982071 0.203214 -48.67115 -65.082893 0.160085 -49.695526 -64.877701 -0.086382 -49.031506 -64.982071 0.203214 -49.314579 -65.009758 -0.112832</triFiducial>
+      <thetaR>0.262875</thetaR>
+      <phiR>0.087106</phiR>
+      <triVertices>117967 117860 117968 117859 117860 117967</triVertices>
+      <vertex>117860 117967</vertex>
+      <vertexFiducial>-49.031506 -64.982071 0.203214 -49.314579 -65.009758 -0.112832</vertexFiducial>
+      <posFiducial>-50.400002 -69.699997 3.95</posFiducial>
+      <fracRI>3.684798</fracRI>
+      <fracRJ>4.684799</fracRJ>
+      <volumeXYZ>-50.400002 -69.699997 3.95</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-50.400002 -69.699997 3.95]]></xyz>
+         <SearchXYZ><![CDATA[-50.400002 -69.699997 3.949999]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[hOC5]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[6.025931]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>10</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>158737 158738 158838</closestTileVertices>
+      <closestTileAreas>0.0581 0.06566 0.015946</closestTileAreas>
+      <cdistance>-0.400954 -1.677966 -2.153761</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-41.799999 -13.9 -12.5</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-41.799999 -13.9 -12.5</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-41.799999 -13.9 -12.5]]></xyz>
+         <SearchXYZ><![CDATA[-41.799999 -13.9 -12.499999]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Insula_Id1]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-2.759533]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>11</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>157935 157936 158044</closestTileVertices>
+      <closestTileAreas>0.148014 0.013687 0.031701</closestTileAreas>
+      <cdistance>-0.038219 -0.47298 -0.104123</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-34.700001 -26.9 7.21</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-34.700001 -26.9 7.21</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-34.700001 -26.9 7.21]]></xyz>
+         <SearchXYZ><![CDATA[-34.700001 -26.900002 7.209999]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Insula_Ig1]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-0.485811]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>12</cellProjNumber>
+      <projectionType><![CDATA[OUTSIDE]]></projectionType>
+      <closestTileVertices>0 0 0</closestTileVertices>
+      <closestTileAreas>0.0 0.0 0.0</closestTileAreas>
+      <cdistance>0.0 0.0 0.0</cdistance>
+      <dR>1.912176</dR>
+      <triFiducial>-39.54026 -22.255283 7.262854 -39.609165 -22.378931 8.028764 -40.334381 -21.865782 7.906537 -40.214592 -21.718388 7.138762 -39.54026 -22.255283 7.262854 -40.334381 -21.865782 7.906537</triFiducial>
+      <thetaR>0.04817</thetaR>
+      <phiR>0.075292</phiR>
+      <triVertices>158875 158876 158975 158974 158875 158975</triVertices>
+      <vertex>158875 158975</vertex>
+      <vertexFiducial>-39.54026 -22.255283 7.262854 -40.334381 -21.865782 7.906537</vertexFiducial>
+      <posFiducial>-36.900002 -21.5 6.42</posFiducial>
+      <fracRI>1.959635</fracRI>
+      <fracRJ>2.959635</fracRJ>
+      <volumeXYZ>-36.900002 -21.5 6.42</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-36.900002 -21.5 6.42]]></xyz>
+         <SearchXYZ><![CDATA[-36.899998 -21.500002 6.420004]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Insula_Ig2]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[1.909958]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>13</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>83979 83862 83980</closestTileVertices>
+      <closestTileAreas>0.032251 0.005274 0.143109</closestTileAreas>
+      <cdistance>-0.100055 -1.522076 -1.379897</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-54.0 -35.5 23.9</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-54.0 -35.5 23.9</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-54.0 -35.5 23.9]]></xyz>
+         <SearchXYZ><![CDATA[-54.038097 -35.498981 23.901642]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[IPC_PFcm]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[2.056901]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>14</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>44028 43921 44029</closestTileVertices>
+      <closestTileAreas>0.047654 0.006283 0.177</closestTileAreas>
+      <cdistance>-0.051355 1.826173 -0.85993</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-53.0 -48.5 36.0</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-53.0 -48.5 36.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-53.0 -48.5 36.0]]></xyz>
+         <SearchXYZ><![CDATA[-53.0 -48.500004 36.0]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[IPC_PFm]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-2.019164]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>15</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>83962 83845 83963</closestTileVertices>
+      <closestTileAreas>0.121689 0.000401 0.087902</closestTileAreas>
+      <cdistance>-1.776012 -1.607914 -1.577882</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-58.099998 -38.900002 32.299999</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-58.099998 -38.900002 32.299999</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-58.099998 -38.900002 32.299999]]></xyz>
+         <SearchXYZ><![CDATA[-58.099995 -38.900002 32.299999]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[IPC_PF]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[2.868678]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>16</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>86686 86595 86687</closestTileVertices>
+      <closestTileAreas>0.001664 0.083799 0.006721</closestTileAreas>
+      <cdistance>1.405937 -0.469809 -0.308849</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-56.900002 -23.9 25.6</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-56.900002 -23.9 25.6</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-56.900002 -23.9 25.6]]></xyz>
+         <SearchXYZ><![CDATA[-56.898952 -23.892321 25.593092]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[IPC_PFop]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-1.514189]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>17</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>85985 85986 86083</closestTileVertices>
+      <closestTileAreas>0.01585 0.126614 0.000637</closestTileAreas>
+      <cdistance>0.257923 0.823553 0.646214</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-53.700001 -29.299999 40.0</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-53.700001 -29.299999 40.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-53.700001 -29.299999 40.0]]></xyz>
+         <SearchXYZ><![CDATA[-53.700001 -29.299997 40.0]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[IPC_PFt]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[1.078126]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>18</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>81974 81975 82012</closestTileVertices>
+      <closestTileAreas>0.010147 0.029059 0.076341</closestTileAreas>
+      <cdistance>0.007055 -0.223052 -0.106119</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-48.400002 -59.900002 33.0</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-48.400002 -59.900002 33.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-48.400002 -59.900002 33.0]]></xyz>
+         <SearchXYZ><![CDATA[-48.400002 -59.900002 33.0]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[IPC_PGa]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[0.247110]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>19</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>78788 78700 78789</closestTileVertices>
+      <closestTileAreas>0.093402 0.008614 0.026417</closestTileAreas>
+      <cdistance>0.55563 1.073073 1.256852</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-43.400002 -72.599998 29.200001</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-43.400002 -72.599998 29.200001</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-43.400002 -72.599998 29.200001]]></xyz>
+         <SearchXYZ><![CDATA[-43.400005 -72.599998 29.200003]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[IPC_PGp]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-1.743527]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>20</cellProjNumber>
+      <projectionType><![CDATA[OUTSIDE]]></projectionType>
+      <closestTileVertices>0 0 0</closestTileVertices>
+      <closestTileAreas>0.0 0.0 0.0</closestTileAreas>
+      <cdistance>0.0 0.0 0.0</cdistance>
+      <dR>0.966555</dR>
+      <triFiducial>-50.544018 -20.798531 5.851358 -50.282776 -21.395178 5.728038 -50.779053 -20.966368 5.552655 -51.013237 -20.374594 5.644568 -50.544018 -20.798531 5.851358 -50.779053 -20.966368 5.552655</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.058073</phiR>
+      <triVertices>160598 160599 160679 160678 160598 160679</triVertices>
+      <vertex>160598 160679</vertex>
+      <vertexFiducial>-50.544018 -20.798531 5.851358 -50.779053 -20.966368 5.552655</vertexFiducial>
+      <posFiducial>-49.5 -20.200001 5.71</posFiducial>
+      <fracRI>1.7587</fracRI>
+      <fracRJ>2.758699</fracRJ>
+      <volumeXYZ>-49.5 -20.200001 5.71</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-49.5 -20.200001 5.71]]></xyz>
+         <SearchXYZ><![CDATA[-49.555813 -20.112814 5.704931]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[PAC_TE10]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-0.960999]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>21</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>159469 159470 159563</closestTileVertices>
+      <closestTileAreas>0.130893 0.028832 0.082735</closestTileAreas>
+      <cdistance>-0.36667 -0.305305 0.201751</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-43.099998 -29.1 10.5</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-43.099998 -29.1 10.5</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-43.099998 -29.1 10.5]]></xyz>
+         <SearchXYZ><![CDATA[-43.099998 -29.100002 10.499999]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[PAC_TE11]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[0.518036]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>22</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>160813 160735 160814</closestTileVertices>
+      <closestTileAreas>0.209537 0.046332 0.0079</closestTileAreas>
+      <cdistance>-0.176207 -0.527015 -0.823148</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-53.700001 -9.39 2.06</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-53.700001 -9.39 2.06</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-53.700001 -9.39 2.06]]></xyz>
+         <SearchXYZ><![CDATA[-53.700005 -9.389999 2.06]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[PAC_TE12]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-0.993160]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>23</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>25958 25959 26078</closestTileVertices>
+      <closestTileAreas>0.079896 0.128935 0.068418</closestTileAreas>
+      <cdistance>0.474352 2.983528 -0.719483</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-24.5 -22.299999 55.5</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-24.5 -22.299999 55.5</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-24.5 -22.299999 55.5]]></xyz>
+         <SearchXYZ><![CDATA[-24.500004 -22.300001 55.500004]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[PMC_4a]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-3.105496]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>24</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>39763 39764 39820</closestTileVertices>
+      <closestTileAreas>0.133631 0.051409 0.003551</closestTileAreas>
+      <cdistance>0.329046 3.158803 -1.725345</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-31.200001 -23.700001 49.599998</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-31.200001 -23.700001 49.599998</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-31.200001 -23.700001 49.599998]]></xyz>
+         <SearchXYZ><![CDATA[-31.199999 -23.700001 49.599998]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[PMC_4p]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-3.614294]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>25</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>30450 30376 30451</closestTileVertices>
+      <closestTileAreas>0.033347 0.149918 0.05079</closestTileAreas>
+      <cdistance>-3.006421 0.347257 0.440546</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-24.4 -7.08 52.700001</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-24.4 -7.08 52.700001</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-24.4 -7.08 52.700001]]></xyz>
+         <SearchXYZ><![CDATA[-24.4 -7.08 52.700001]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[premotor_6]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[3.058306]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>26</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>39669 39670 39728</closestTileVertices>
+      <closestTileAreas>0.141967 0.078789 0.035272</closestTileAreas>
+      <cdistance>-0.804344 -0.37768 -0.393314</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-43.400002 -23.4 51.900002</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-43.400002 -23.4 51.900002</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-43.400002 -23.4 51.900002]]></xyz>
+         <SearchXYZ><![CDATA[-43.400002 -23.4 51.900005]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[PSC_1]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-0.971755]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>27</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>36919 36824 36920</closestTileVertices>
+      <closestTileAreas>0.022875 0.067553 0.038893</closestTileAreas>
+      <cdistance>0.850757 1.013995 0.533042</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-42.0 -31.6 49.799999</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-42.0 -31.6 49.799999</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-42.0 -31.6 49.799999]]></xyz>
+         <SearchXYZ><![CDATA[-42.0 -31.6 49.800003]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[PSC_2]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-1.426922]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>28</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>40437 40393 40438</closestTileVertices>
+      <closestTileAreas>0.111254 0.009078 0.033325</closestTileAreas>
+      <cdistance>1.737396 -2.937325 -0.843888</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-32.400002 -24.9 42.799999</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-32.400002 -24.9 42.799999</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-32.400002 -24.9 42.799999]]></xyz>
+         <SearchXYZ><![CDATA[-32.366047 -24.894058 42.849224]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[PSC_3a]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-3.515476]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>29</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>40292 40245 40293</closestTileVertices>
+      <closestTileAreas>0.060416 0.112586 0.003667</closestTileAreas>
+      <cdistance>-1.227284 0.147754 -0.367237</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-37.099998 -23.1 48.200001</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-37.099998 -23.1 48.200001</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-37.099998 -23.1 48.200001]]></xyz>
+         <SearchXYZ><![CDATA[-37.099182 -23.119932 48.189262]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[PSC_3b]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[1.289542]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>30</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>85331 85226 85332</closestTileVertices>
+      <closestTileAreas>0.006487 0.053368 0.086866</closestTileAreas>
+      <cdistance>-0.056614 -0.554852 0.561929</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-53.599998 -25.299999 19.299999</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-53.599998 -25.299999 19.299999</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-53.599998 -25.299999 19.299999]]></xyz>
+         <SearchXYZ><![CDATA[-53.581989 -25.268707 19.332712]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[SII_OP1]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-0.791726]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>31</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>49742 49732 49743</closestTileVertices>
+      <closestTileAreas>0.083934 0.020141 0.037673</closestTileAreas>
+      <cdistance>0.000239 -0.004489 -0.010187</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-38.099998 -24.5 18.6</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-38.099998 -24.5 18.6</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-38.099998 -24.5 18.6]]></xyz>
+         <SearchXYZ><![CDATA[-38.099998 -24.5 18.6]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[SII_OP2]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[0.011135]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>32</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>83910 83911 84028</closestTileVertices>
+      <closestTileAreas>0.009212 0.147023 0.007629</closestTileAreas>
+      <cdistance>0.628225 0.903364 -0.993085</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-43.5 -15.9 16.9</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-43.5 -15.9 16.9</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-43.5 -15.9 16.9]]></xyz>
+         <SearchXYZ><![CDATA[-43.572369 -15.792711 16.951817]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[SII_OP3]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[1.482212]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>33</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>86445 82783 82782</closestTileVertices>
+      <closestTileAreas>0.073221 0.049269 0.059518</closestTileAreas>
+      <cdistance>0.047177 -0.318845 -0.207303</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-54.900002 -11.5 12.3</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-54.900002 -11.5 12.3</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-54.900002 -11.5 12.3]]></xyz>
+         <SearchXYZ><![CDATA[-54.900005 -11.500001 12.300002]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[SII_OP4]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[0.383226]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>34</cellProjNumber>
+      <projectionType><![CDATA[OUTSIDE]]></projectionType>
+      <closestTileVertices>0 0 0</closestTileVertices>
+      <closestTileAreas>0.0 0.0 0.0</closestTileAreas>
+      <cdistance>0.0 0.0 0.0</cdistance>
+      <dR>2.513383</dR>
+      <triFiducial>-11.384742 -38.68396 43.133018 -11.297818 -39.038651 43.529968 -11.965384 -38.921215 43.105679 -11.297818 -39.038651 43.529968 -11.862356 -39.2761 43.523537 -11.965384 -38.921215 43.105679</triFiducial>
+      <thetaR>0.075425</thetaR>
+      <phiR>0.020974</phiR>
+      <triVertices>19683 19581 19684 19581 19582 19684</triVertices>
+      <vertex>19684 19581</vertex>
+      <vertexFiducial>-11.965384 -38.921215 43.105679 -11.297818 -39.038651 43.529968</vertexFiducial>
+      <posFiducial>-10.9 -37.400002 45.799999</posFiducial>
+      <fracRI>2.62057</fracRI>
+      <fracRJ>1.62057</fracRJ>
+      <volumeXYZ>-10.9 -37.400002 45.799999</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-10.9 -37.400002 45.799999]]></xyz>
+         <SearchXYZ><![CDATA[-10.9 -37.400005 45.799999]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[SPL5Ci]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[2.509660]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>35</cellProjNumber>
+      <projectionType><![CDATA[OUTSIDE]]></projectionType>
+      <closestTileVertices>0 0 0</closestTileVertices>
+      <closestTileAreas>0.0 0.0 0.0</closestTileAreas>
+      <cdistance>0.0 0.0 0.0</cdistance>
+      <dR>1.732422</dR>
+      <triFiducial>-17.948223 -50.495758 64.83477 -18.090662 -50.152122 64.706383 -17.75795 -50.171627 65.143578 -17.948223 -50.495758 64.83477 -17.75795 -50.171627 65.143578 -17.606167 -50.524551 65.249802</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.051438</phiR>
+      <triVertices>58915 58792 58916 58915 58916 59038</triVertices>
+      <vertex>58915 58916</vertex>
+      <vertexFiducial>-17.948223 -50.495758 64.83477 -17.75795 -50.171627 65.143578</vertexFiducial>
+      <posFiducial>-16.1 -49.0 64.699997</posFiducial>
+      <fracRI>3.35917</fracRI>
+      <fracRJ>2.35917</fracRJ>
+      <volumeXYZ>-16.1 -49.0 64.699997</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-16.1 -49.0 64.699997]]></xyz>
+         <SearchXYZ><![CDATA[-15.934175 -49.224934 64.833916]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[SPL5L]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-1.896583]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>36</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>20222 20223 20319</closestTileVertices>
+      <closestTileAreas>0.043 0.032989 0.124428</closestTileAreas>
+      <cdistance>-0.188466 -2.800427 -1.002367</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-8.51 -43.5 57.599998</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-8.51 -43.5 57.599998</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-8.51 -43.5 57.599998]]></xyz>
+         <SearchXYZ><![CDATA[-8.51 -43.500004 57.599998]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[SPL_5M]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[2.980378]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>37</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>59004 59005 59126</closestTileVertices>
+      <closestTileAreas>0.038597 0.001426 0.127718</closestTileAreas>
+      <cdistance>0.828576 1.257991 0.18996</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-19.9 -61.700001 57.900002</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-19.9 -61.700001 57.900002</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-19.9 -61.700001 57.900002]]></xyz>
+         <SearchXYZ><![CDATA[-19.899998 -61.699993 57.900002]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[SPL_7A]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-1.518277]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>38</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>64910 64855 64911</closestTileVertices>
+      <closestTileAreas>0.003174 0.119214 0.138676</closestTileAreas>
+      <cdistance>-0.525701 0.084154 0.076365</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-2.65 -71.5 36.700001</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-2.65 -71.5 36.700001</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-2.65 -71.5 36.700001]]></xyz>
+         <SearchXYZ><![CDATA[-2.65 -71.5 36.700005]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[SPL_7M]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-0.537842]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>39</cellProjNumber>
+      <projectionType><![CDATA[OUTSIDE]]></projectionType>
+      <closestTileVertices>0 0 0</closestTileVertices>
+      <closestTileAreas>0.0 0.0 0.0</closestTileAreas>
+      <cdistance>0.0 0.0 0.0</cdistance>
+      <dR>3.500531</dR>
+      <triFiducial>-31.199116 -44.530155 57.846436 -31.642317 -44.527382 57.888535 -30.955347 -44.282909 57.275249 -31.892981 -44.752628 58.452656 -31.642317 -44.527382 57.888535 -31.199116 -44.530155 57.846436</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.028752</phiR>
+      <triVertices>73429 73381 73430 73380 73381 73429</triVertices>
+      <vertex>73381 73429</vertex>
+      <vertexFiducial>-31.642317 -44.527382 57.888535 -31.199116 -44.530155 57.846436</vertexFiducial>
+      <posFiducial>-30.4 -47.799999 56.5</posFiducial>
+      <fracRI>3.118594</fracRI>
+      <fracRJ>2.118594</fracRJ>
+      <volumeXYZ>-30.4 -47.799999 56.5</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-30.4 -47.799999 56.5]]></xyz>
+         <SearchXYZ><![CDATA[-30.417379 -47.72031 56.311783]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[SPL_7PC]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-3.537791]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>40</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>162299 162243 162300</closestTileVertices>
+      <closestTileAreas>0.040664 0.144454 0.051782</closestTileAreas>
+      <cdistance>0.708145 -0.11328 0.221818</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-64.699997 -19.200001 2.48</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-64.699997 -19.200001 2.48</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-64.699997 -19.200001 2.48]]></xyz>
+         <SearchXYZ><![CDATA[-64.699997 -19.200001 2.48]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Wernicke_TE30]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ESM05]]></className>
+         <signedDistanceAboveSurface><![CDATA[-0.750670]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+</Foci_Projection_File>

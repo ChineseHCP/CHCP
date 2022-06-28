@@ -1,0 +1,8 @@
+Network Order, Network Name
+1, Visual
+2, Somatomotor
+3, Dorsal Attention
+4, Ventral Attention
+5, Auditory
+6, Frontoparietal
+7, Default

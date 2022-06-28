@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GIFTI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="http://brainvis.wustl.edu/caret6/xml_schemas/GIFTI_Caret.xsd"
+       Version="1"
+       NumberOfDataArrays="1">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[AnatomicalStructurePrimary]]></Name>
+         <Value><![CDATA[CortexRight]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[ParentProvenance]]></Name>
+         <Value><![CDATA[/guoyuan_data/make_template_surface/Yeo_networks/FS_LR_Yeo/convert_fsaverage/resample_to_Conte69_affine/fsaverage-Conte69.R.sphere.init.sulc.surf.gii:
+/guoyuan_data/software/workbench/bin_linux64/../exe_linux64/wb_command -metric-math 'var * -1' /guoyuan_data/make_template_surface/Yeo_networks/FS_LR_Yeo/convert_fsaverage/R.sulc.native.shape.gii -var var /guoyuan_data/make_template_surface/Yeo_networks/FS_LR_Yeo/convert_fsaverage/R.sulc.native.shape.gii]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[ProgramProvenance]]></Name>
+         <Value><![CDATA[Connectome Workbench
+Type: Command Line Application
+Version: 1.2.3
+Qt Compiled Version: 4.8.5
+Qt Runtime Version: 4.8.5
+Commit: c170db0277de04cb8a5c04fdf96e45adcda47d6d
+Commit Date: 2016-08-23 19:08:10 -0500
+Compiled with OpenMP: YES
+Compiler: c++ (/usr/bin)
+Compiler Version: 
+Compiled Debug: NO
+Operating System: Linux]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Provenance]]></Name>
+         <Value><![CDATA[/guoyuan_data/software/workbench/bin_linux64/../exe_linux64/wb_command -label-resample /guoyuan_data/make_template_surface/Yeo_networks/FS_LR_Yeo/convert_fsaverage/Rh_7networks.label.gii /guoyuan_data/make_template_surface/Yeo_networks/FS_LR_Yeo/convert_fsaverage/resample_to_Conte69_affine/fsaverage-Conte69.R.sphere.init.sulc.surf.gii /guoyuan_data/make_template_surface/make_surface/SurfaceAtlasConstruction_ygy_chcp_final/Conte69/Conte69.R.sphere.32k_fs_LR.surf.gii BARYCENTRIC /guoyuan_data/make_template_surface/Yeo_networks/FS_LR_Yeo/convert_fsaverage/output_label/Rh_7networks_fs32_new.label.gii]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[WorkingDirectory]]></Name>
+         <Value><![CDATA[/guoyuan_data/make_template_surface/Yeo_networks/FS_LR_Yeo/convert_fsaverage/a_bash]]></Value>
+      </MD>
+   </MetaData>
+   <LabelTable>
+      <Label Key="0" Red="0.00392157" Green="0.00392157" Blue="0.00392157" Alpha="1"><![CDATA[FreeSurfer_Defined_Medial_Wall]]></Label>
+      <Label Key="1" Red="0.470588" Green="0.0705882" Blue="0.52549" Alpha="1"><![CDATA[7Networks_1]]></Label>
+      <Label Key="2" Red="0.27451" Green="0.509804" Blue="0.705882" Alpha="1"><![CDATA[7Networks_2]]></Label>
+      <Label Key="3" Red="0" Green="0.462745" Blue="0.054902" Alpha="1"><![CDATA[7Networks_3]]></Label>
+      <Label Key="4" Red="0.768627" Green="0.227451" Blue="0.980392" Alpha="1"><![CDATA[7Networks_4]]></Label>
+      <Label Key="5" Red="0.862745" Green="0.972549" Blue="0.643137" Alpha="1"><![CDATA[7Networks_5]]></Label>
+      <Label Key="6" Red="0.901961" Green="0.580392" Blue="0.133333" Alpha="1"><![CDATA[7Networks_6]]></Label>
+      <Label Key="7" Red="0.803922" Green="0.243137" Blue="0.305882" Alpha="1"><![CDATA[7Networks_7]]></Label>
+   </LabelTable>
+<DataArray Intent="NIFTI_INTENT_LABEL"
+           DataType="NIFTI_TYPE_INT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[node label]]></Value>
+      </MD>
+   </MetaData>
+   <Data>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</Data>
+</DataArray>
+</GIFTI>

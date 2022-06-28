@@ -1,0 +1,72 @@
+# Title Segmentation Statistics 
+# 
+# generating_program mri_segstats
+# cvs_version $Id: mri_segstats.c,v 1.121 2016/05/31 17:27:11 greve Exp $
+# cmdline mri_segstats --seg 100307/mri/BN_subcotex.mgz --ctab ./BN_Atlas_246_LUT.txt --excludeid 0 --sum 100307/stats/BN_subcotex.stats 
+# sysname  Linux
+# hostname mic235
+# machine  x86_64
+# user     lqcheng
+# anatomy_type volume
+# 
+# SegVolFile 100307/mri/BN_subcotex.mgz 
+# SegVolFileTimeStamp  2017/11/07 15:34:37 
+# ColorTable ./BN_Atlas_246_LUT.txt 
+# ColorTableTimeStamp 2017/11/07 15:45:32 
+# ExcludeSegId 0 
+# Only reporting non-empty segmentations
+# VoxelVolume_mm3 1 
+# TableCol  1 ColHeader Index 
+# TableCol  1 FieldName Index 
+# TableCol  1 Units     NA 
+# TableCol  2 ColHeader SegId 
+# TableCol  2 FieldName Segmentation Id
+# TableCol  2 Units     NA
+# TableCol  3 ColHeader NVoxels 
+# TableCol  3 FieldName Number of Voxels
+# TableCol  3 Units     unitless
+# TableCol  4 ColHeader Volume_mm3
+# TableCol  4 FieldName Volume
+# TableCol  4 Units     mm^3
+# TableCol  5 ColHeader StructName
+# TableCol  5 FieldName Structure Name
+# TableCol  5 Units     NA
+# NRows 36 
+# NTableCols 5 
+# ColHeaders  Index SegId NVoxels Volume_mm3 StructName  
+  1 211       901      901.0  mAmyg_L                        
+  2 212      1286     1286.0  mAmyg_R                        
+  3 213       718      718.0  lAmyg_L                        
+  4 214       786      786.0  lAmyg_R                        
+  5 215      4057     4057.0  rHipp_L                        
+  6 216      3292     3292.0  rHipp_R                        
+  7 217      3469     3469.0  cHipp_L                        
+  8 218      3778     3778.0  cHipp_R                        
+  9 219      2602     2602.0  vCa_L                          
+ 10 220      2074     2074.0  vCa_R                          
+ 11 221      1705     1705.0  GP_L                           
+ 12 222      1986     1986.0  GP_R                           
+ 13 223      2089     2089.0  NAC_L                          
+ 14 224      2162     2162.0  NAC_R                          
+ 15 225      1728     1728.0  vmPu_L                         
+ 16 226      1377     1377.0  vmPu_R                         
+ 17 227      3664     3664.0  dCa_L                          
+ 18 228      4462     4462.0  dCa_R                          
+ 19 229      2378     2378.0  dlPu_L                         
+ 20 230      2481     2481.0  dlPu_R                         
+ 21 231       796      796.0  mPFtha_L                       
+ 22 232       994      994.0  mPFtha_R                       
+ 23 233       747      747.0  mPMtha_L                       
+ 24 234      1278     1278.0  mPMtha_R                       
+ 25 235       710      710.0  Stha_L                         
+ 26 236       587      587.0  Stha_R                         
+ 27 237      1509     1509.0  rTtha_L                        
+ 28 238      1463     1463.0  rTtha_R                        
+ 29 239      1086     1086.0  PPtha_L                        
+ 30 240       963      963.0  PPtha_R                        
+ 31 241      1034     1034.0  Otha_L                         
+ 32 242       899      899.0  Otha_R                         
+ 33 243      1337     1337.0  cTtha_L                        
+ 34 244      1026     1026.0  cTtha_R                        
+ 35 245      1925     1925.0  lPFtha_L                       
+ 36 246      1361     1361.0  lPFtha_R                       

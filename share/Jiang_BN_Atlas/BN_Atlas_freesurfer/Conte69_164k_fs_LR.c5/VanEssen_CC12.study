@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StudyMetaData_File>
+   <FileHeader>
+      <Element>
+         <Name><![CDATA[Caret-Version]]></Name>
+         <Value><![CDATA[5.64]]></Value>
+      </Element>
+      <Element>
+         <Name><![CDATA[Date]]></Name>
+         <Value><![CDATA[2012-03-20T18:58:50]]></Value>
+      </Element>
+      <Element>
+         <Name><![CDATA[comment]]></Name>
+         <Value><![CDATA[]]></Value>
+      </Element>
+      <Element>
+         <Name><![CDATA[encoding]]></Name>
+         <Value><![CDATA[XML]]></Value>
+      </Element>
+      <Element>
+         <Name><![CDATA[pubmed_id]]></Name>
+         <Value><![CDATA[]]></Value>
+      </Element>
+   </FileHeader>
+   <StudyMetaData>
+      <authors><![CDATA[Van Essen DC, Glasser MF, Dierker DL, Harwell J, Coalson T]]></authors>
+      <citation><![CDATA[Cerebral cortex 2011; Nov 2. [Epub ahead of print];]]></citation>
+      <comment><![CDATA[We report on surface-based analyses that enhance our understanding of human cortical organization, including its convolutions and its parcellation into many distinct areas. The surface area of human neocortex averages 973 cm(2) per hemisphere, based on cortical midthickness surfaces of 2 cohorts of subjects. We implemented a method to register individual subjects to a hybrid version of the FreeSurfer "fsaverage" atlas whose left and right hemispheres are in precise geographic correspondence. Cortical folding patterns in the resultant population-average "fs_LR" midthickness surfaces are remarkably similar in the left and right hemispheres, even in regions showing significant asymmetry in 3D position. Both hemispheres are equal in average surface area, but hotspots of surface area asymmetry are present in the Sylvian Fissure and elsewhere, together with a broad pattern of asymmetries that are significant though small in magnitude. Multiple cortical parcellation schemes registered to the human atlas provide valuable reference data sets for comparisons with other studies. Identified cortical areas vary in size by more than 2 orders of magnitude. The total number of human neocortical areas is estimated to be ∼150 to 200 areas per hemisphere, which is modestly larger than a recent estimate for the macaque.]]></comment>
+      <dateAndTimeStamps><![CDATA[20_Mar_2012_18_58_50;17_Mar_2012_15_30_23;17_Mar_2012_11_30_27;17_Mar_2012_11_28_46;9_Oct_2011_14_10_16;9_Oct_2011_14_06_59;]]></dateAndTimeStamps>
+      <documentObjectIdentifier><![CDATA[10.1093/cercor/bhr291]]></documentObjectIdentifier>
+      <keywords><![CDATA[]]></keywords>
+      <mesh><![CDATA[]]></mesh>
+      <name><![CDATA[VanEssen_CC12b]]></name>
+      <partitioningSchemeAbbreviation><![CDATA[]]></partitioningSchemeAbbreviation>
+      <partitioningSchemeFullName><![CDATA[]]></partitioningSchemeFullName>
+      <projectID><![CDATA[ProjID20111009140403200001]]></projectID>
+      <pubMedID><![CDATA[22047963]]></pubMedID>
+      <quality><![CDATA[]]></quality>
+      <species><![CDATA[Human]]></species>
+      <stereotaxicSpace><![CDATA[FLIRT]]></stereotaxicSpace>
+      <stereotaxicSpaceDetails><![CDATA[]]></stereotaxicSpaceDetails>
+      <studyDataFormat><![CDATA[Paint; Surface; Surface Shape]]></studyDataFormat>
+      <studyDataType><![CDATA[Partitioning Scheme]]></studyDataType>
+      <title><![CDATA[Parcellations and Hemispheric Asymmetries of Human Cerebral Cortex Analyzed on Surface-Based Atlases.]]></title>
+      <mslID><![CDATA[]]></mslID>
+      <parentID><![CDATA[]]></parentID>
+      <coreDataCompleted><![CDATA[]]></coreDataCompleted>
+      <completed><![CDATA[]]></completed>
+      <publicAccess><![CDATA[]]></publicAccess>
+      <StudyMetaDataProvenance>
+         <name><![CDATA[vanessen]]></name>
+         <date><![CDATA[09 Oct 2011]]></date>
+         <comment><![CDATA[]]></comment>
+      </StudyMetaDataProvenance>
+   </StudyMetaData>
+   <StudyMetaData>
+      <authors><![CDATA[Van Essen DC, Glasser MF, Dierker DL, Harwell J]]></authors>
+      <citation><![CDATA[Cerebral cortex 2011; Nov 2. [Epub ahead of print]]]></citation>
+      <comment><![CDATA[Surface-based atlases provide a valuable way to analyze and visualize the functional organization of cerebral cortex. Surface-based registration (SBR) is a primary method for aligning individual hemispheres to a surface-based atlas. We used landmark-constrained SBR to register many published parcellation schemes to the macaque F99 surface-based atlas. This enables objective comparison of both similarities and differences across parcellations. Cortical areas in the macaque vary in surface area by more than 2 orders of magnitude. Based on a composite parcellation derived from 3 major sources, the total number of macaque neocortical and transitional cortical areas is estimated to be about 130-140 in each hemisphere.]]></comment>
+      <dateAndTimeStamps><![CDATA[20_Mar_2012_18_58_51;17_Mar_2012_15_30_23;17_Mar_2012_11_30_27;17_Mar_2012_11_28_46;9_Oct_2011_14_10_16;9_Oct_2011_14_08_36;]]></dateAndTimeStamps>
+      <documentObjectIdentifier><![CDATA[10.1093/cercor/bhr290]]></documentObjectIdentifier>
+      <keywords><![CDATA[]]></keywords>
+      <mesh><![CDATA[]]></mesh>
+      <name><![CDATA[VanEssen_CC12a]]></name>
+      <partitioningSchemeAbbreviation><![CDATA[]]></partitioningSchemeAbbreviation>
+      <partitioningSchemeFullName><![CDATA[]]></partitioningSchemeFullName>
+      <projectID><![CDATA[ProjID20111009140745900003]]></projectID>
+      <pubMedID><![CDATA[22052704]]></pubMedID>
+      <quality><![CDATA[]]></quality>
+      <species><![CDATA[Macaque]]></species>
+      <stereotaxicSpace><![CDATA[MACAQUE-F99]]></stereotaxicSpace>
+      <stereotaxicSpaceDetails><![CDATA[]]></stereotaxicSpaceDetails>
+      <studyDataFormat><![CDATA[Paint; Surface; Surface Shape]]></studyDataFormat>
+      <studyDataType><![CDATA[Partitioning Scheme]]></studyDataType>
+      <title><![CDATA[Cortical Parcellations of the Macaque Monkey Analyzed on Surface-Based Atlases.]]></title>
+      <mslID><![CDATA[]]></mslID>
+      <parentID><![CDATA[]]></parentID>
+      <coreDataCompleted><![CDATA[]]></coreDataCompleted>
+      <completed><![CDATA[]]></completed>
+      <publicAccess><![CDATA[]]></publicAccess>
+      <StudyMetaDataProvenance>
+         <name><![CDATA[vanessen]]></name>
+         <date><![CDATA[09 Oct 2011]]></date>
+         <comment><![CDATA[]]></comment>
+      </StudyMetaDataProvenance>
+   </StudyMetaData>
+   <StudyMetaData>
+      <authors><![CDATA[Fischl B, Rajendran N, Busa E, Augustinack J, Hinds O, Yeo BT, Mohlberg H, Amunts K, Zilles K]]></authors>
+      <citation><![CDATA[Cerebral cortex 2008; 18:1973-80]]></citation>
+      <comment><![CDATA[The human cerebral cortex is made up of a mosaic of structural areas, frequently referred to as Brodmann areas (BAs). Despite the widespread use of cortical folding patterns to perform ad hoc estimations of the locations of the BAs, little is understood regarding 1) how variable the position of a given BA is with respect to the folds, 2) whether the location of some BAs is more variable than others, and 3) whether the variability is related to the level of a BA in a putative cortical hierarchy. We use whole-brain histology of 10 postmortem human brains and surface-based analysis to test how well the folds predict the locations of the BAs. We show that higher order cortical areas exhibit more variability than primary and secondary areas and that the folds are much better predictors of the BAs than had been previously thought. These results further highlight the significance of cortical folding patterns and suggest a common mechanism for the development of the folds and the cytoarchitectonic fields.]]></comment>
+      <dateAndTimeStamps><![CDATA[20_Mar_2012_18_58_51;]]></dateAndTimeStamps>
+      <documentObjectIdentifier><![CDATA[10.1093/cercor/bhm225]]></documentObjectIdentifier>
+      <keywords><![CDATA[]]></keywords>
+      <mesh><![CDATA[Brain Mapping: methods; Cerebral Cortex: cytology, physiology]]></mesh>
+      <name><![CDATA[Fischl_CC08]]></name>
+      <partitioningSchemeAbbreviation><![CDATA[]]></partitioningSchemeAbbreviation>
+      <partitioningSchemeFullName><![CDATA[]]></partitioningSchemeFullName>
+      <projectID><![CDATA[ProjID20120320184747301090]]></projectID>
+      <pubMedID><![CDATA[18079129]]></pubMedID>
+      <quality><![CDATA[]]></quality>
+      <species><![CDATA[]]></species>
+      <stereotaxicSpace><![CDATA[]]></stereotaxicSpace>
+      <stereotaxicSpaceDetails><![CDATA[]]></stereotaxicSpaceDetails>
+      <studyDataFormat><![CDATA[]]></studyDataFormat>
+      <studyDataType><![CDATA[]]></studyDataType>
+      <title><![CDATA[Cortical folding patterns and predicting cytoarchitecture.]]></title>
+      <mslID><![CDATA[]]></mslID>
+      <parentID><![CDATA[]]></parentID>
+      <coreDataCompleted><![CDATA[]]></coreDataCompleted>
+      <completed><![CDATA[]]></completed>
+      <publicAccess><![CDATA[]]></publicAccess>
+      <StudyMetaDataProvenance>
+         <name><![CDATA[vanessen]]></name>
+         <date><![CDATA[20 Mar 2012]]></date>
+         <comment><![CDATA[Added all studies in Table 3 (VE_CC11b)]]></comment>
+      </StudyMetaDataProvenance>
+   </StudyMetaData>
+   <StudyMetaData>
+      <authors><![CDATA[Ongür D, Ferry AT, Price JL]]></authors>
+      <citation><![CDATA[The Journal of comparative neurology 2003; 460:425-49]]></citation>
+      <comment><![CDATA[The structure of the human orbital and medial prefrontal cortex (OMPFC) was investigated using five histological and immunohistochemical stains and was correlated with a previous analysis in macaque monkeys [Carmichael and Price (1994) J. Comp. Neurol. 346:366-402]. A cortical area was recognized if it was distinct with at least two stains and was found in similar locations in different brains. All of the areas recognized in the macaque OMPFC have counterparts in humans. Areas 11, 13, and 14 were subdivided into areas 11m, 11l, 13a, 13b, 13m, 13l, 14r, and 14c. Within area 10, the region corresponding to area 10m in monkeys was divided into 10m and 10r, and area 10o (orbital) was renamed area 10p (polar). Areas 47/12r, 47/12m, 47/12l, and 47/12s occupy the lateral orbital cortex, corresponding to monkey areas 12r, 12m, 12l, and 12o. The agranular insula (areas Iam, Iapm, Iai, and Ial) extends onto the caudal orbital surface and into the horizontal ramus of the lateral sulcus. The growth of the frontal pole in humans has pushed area 25 and area 32pl, which corresponds to the prelimbic area 32 in Brodmann's monkey brain map, caudal and ventral to the genu of the corpus callosum. Anterior cingulate areas 24a and 24b also extend ventral to the genu of the corpus callosum. Area 32ac, corresponding to the dorsal anterior cingulate area 32 in Brodmann's human brain map, is anterior and dorsal to the genu. The parallel organization of the OMPFC in monkeys and humans allows experimental data from monkeys to be applied to studies of the human cortex.Copyright 2003 Wiley-Liss, Inc.]]></comment>
+      <dateAndTimeStamps><![CDATA[20_Mar_2012_18_58_51;]]></dateAndTimeStamps>
+      <documentObjectIdentifier><![CDATA[10.1002/cne.10609]]></documentObjectIdentifier>
+      <keywords><![CDATA[]]></keywords>
+      <mesh><![CDATA[Prefrontal Cortex: anatomy & histology, chemistry]]></mesh>
+      <name><![CDATA[Ongur_JCN03]]></name>
+      <partitioningSchemeAbbreviation><![CDATA[]]></partitioningSchemeAbbreviation>
+      <partitioningSchemeFullName><![CDATA[]]></partitioningSchemeFullName>
+      <projectID><![CDATA[ProjID20120320184840501091]]></projectID>
+      <pubMedID><![CDATA[12692859]]></pubMedID>
+      <quality><![CDATA[]]></quality>
+      <species><![CDATA[]]></species>
+      <stereotaxicSpace><![CDATA[]]></stereotaxicSpace>
+      <stereotaxicSpaceDetails><![CDATA[]]></stereotaxicSpaceDetails>
+      <studyDataFormat><![CDATA[]]></studyDataFormat>
+      <studyDataType><![CDATA[]]></studyDataType>
+      <title><![CDATA[Architectonic subdivision of the human orbital and medial prefrontal cortex.]]></title>
+      <mslID><![CDATA[]]></mslID>
+      <parentID><![CDATA[]]></parentID>
+      <coreDataCompleted><![CDATA[]]></coreDataCompleted>
+      <completed><![CDATA[]]></completed>
+      <publicAccess><![CDATA[]]></publicAccess>
+      <StudyMetaDataProvenance>
+         <name><![CDATA[vanessen]]></name>
+         <date><![CDATA[20 Mar 2012]]></date>
+         <comment><![CDATA[Added all studies in Table 3 (VE_CC11b)]]></comment>
+      </StudyMetaDataProvenance>
+   </StudyMetaData>
+   <StudyMetaData>
+      <authors><![CDATA[Kolster H, Peeters R, Orban GA]]></authors>
+      <citation><![CDATA[The Journal of neuroscience 2010; 30:9801-20]]></citation>
+      <comment><![CDATA[Although there is general agreement that the human middle temporal (MT)/V5+ complex corresponds to monkey area MT/V5 proper plus a number of neighboring motion-sensitive areas, the identification of human MT/V5 within the complex has proven difficult. Here, we have used functional magnetic resonance imaging and the retinotopic mapping technique, which has very recently disclosed the organization of the visual field maps within the monkey MT/V5 cluster. We observed a retinotopic organization in humans very similar to that documented in monkeys: an MT/V5 cluster that includes areas MT/V5, pMSTv (putative ventral part of the medial superior temporal area), pFST (putative fundus of the superior temporal area), and pV4t (putative V4 transitional zone), and neighbors a more ventral putative human posterior inferior temporal area (phPIT) cluster. The four areas in the MT/V5 cluster and the two areas in the phPIT cluster each represent the complete contralateral hemifield. The complete MT/V5 cluster comprises 70% of the motion localizer activation. Human MT/V5 is located in the region bound by lateral, anterior, and inferior occipital sulci and occupies only one-fifth of the motion complex. It shares the basic functional properties of its monkey homolog: receptive field size relative to other areas, response to moving and static stimuli, as well as sensitivity to three-dimensional structure from motion. Functional properties sharply distinguish the MT/V5 cluster from its immediate neighbors in the phPIT cluster and the LO (lateral occipital) regions. Together with similarities in retinotopic organization and topological neighborhood, the functional properties suggest that MT/V5 in human and macaque cortex are homologous.]]></comment>
+      <dateAndTimeStamps><![CDATA[20_Mar_2012_18_58_51;]]></dateAndTimeStamps>
+      <documentObjectIdentifier><![CDATA[10.1523/JNEUROSCI.2069-10.2010]]></documentObjectIdentifier>
+      <keywords><![CDATA[]]></keywords>
+      <mesh><![CDATA[Brain Mapping; Visual Cortex: physiology; Visual Perception: physiology]]></mesh>
+      <name><![CDATA[Kolster_JN10]]></name>
+      <partitioningSchemeAbbreviation><![CDATA[]]></partitioningSchemeAbbreviation>
+      <partitioningSchemeFullName><![CDATA[]]></partitioningSchemeFullName>
+      <projectID><![CDATA[ProjID20120320184954601092]]></projectID>
+      <pubMedID><![CDATA[20660263]]></pubMedID>
+      <quality><![CDATA[]]></quality>
+      <species><![CDATA[]]></species>
+      <stereotaxicSpace><![CDATA[]]></stereotaxicSpace>
+      <stereotaxicSpaceDetails><![CDATA[]]></stereotaxicSpaceDetails>
+      <studyDataFormat><![CDATA[]]></studyDataFormat>
+      <studyDataType><![CDATA[]]></studyDataType>
+      <title><![CDATA[The retinotopic organization of the human middle temporal area MT/V5 and its cortical neighbors.]]></title>
+      <mslID><![CDATA[]]></mslID>
+      <parentID><![CDATA[]]></parentID>
+      <coreDataCompleted><![CDATA[]]></coreDataCompleted>
+      <completed><![CDATA[]]></completed>
+      <publicAccess><![CDATA[]]></publicAccess>
+      <StudyMetaDataProvenance>
+         <name><![CDATA[vanessen]]></name>
+         <date><![CDATA[20 Mar 2012]]></date>
+         <comment><![CDATA[Added all studies in Table 3 (VE_CC11b)]]></comment>
+      </StudyMetaDataProvenance>
+   </StudyMetaData>
+   <StudyMetaData>
+      <authors><![CDATA[Swisher JD, Halko MA, Merabet LB, McMains SA, Somers DC]]></authors>
+      <citation><![CDATA[The Journal of neuroscience 2007; 27:5326-37]]></citation>
+      <comment><![CDATA[Human parietal cortex is implicated in a wide variety of sensory and cognitive functions, yet its precise organization remains unclear. Visual field maps provide a potential structural basis for descriptions of functional organization. Here, we detail the topography of a series of five maps of the contralateral visual hemifield within human posterior parietal cortex. These maps are located along the medial bank of the intraparietal sulcus (IPS) and are revealed by direct visual stimulation during functional magnetic resonance imaging, allowing these parietal regions to be routinely and reliably identified simultaneously with occipital visual areas. Two of these maps (IPS3 and IPS4) are novel, whereas two others (IPS1 and IPS2) have previously been revealed only by higher-order cognitive tasks. Area V7, a previously identified visual map, is observed to lie within posterior IPS and to share a foveal representation with IPS1. These parietal maps are reliably observed across scan sessions; however, their precise topography varies between individuals. The multimodal organization of posterior IPS mirrors this variability in visual topography, with complementary tactile activations found immediately adjacent to the visual maps both medially and laterally. These visual maps may provide a practical framework in which to characterize the functional organization of human IPS.]]></comment>
+      <dateAndTimeStamps><![CDATA[20_Mar_2012_18_58_51;]]></dateAndTimeStamps>
+      <documentObjectIdentifier><![CDATA[10.1523/JNEUROSCI.0991-07.2007]]></documentObjectIdentifier>
+      <keywords><![CDATA[]]></keywords>
+      <mesh><![CDATA[Brain Mapping: methods; Occipital Lobe: physiology; Parietal Lobe: physiology; Visual Fields: physiology]]></mesh>
+      <name><![CDATA[Swisher_JN07]]></name>
+      <partitioningSchemeAbbreviation><![CDATA[]]></partitioningSchemeAbbreviation>
+      <partitioningSchemeFullName><![CDATA[]]></partitioningSchemeFullName>
+      <projectID><![CDATA[ProjID20120320184942701093]]></projectID>
+      <pubMedID><![CDATA[17507555]]></pubMedID>
+      <quality><![CDATA[]]></quality>
+      <species><![CDATA[]]></species>
+      <stereotaxicSpace><![CDATA[]]></stereotaxicSpace>
+      <stereotaxicSpaceDetails><![CDATA[]]></stereotaxicSpaceDetails>
+      <studyDataFormat><![CDATA[]]></studyDataFormat>
+      <studyDataType><![CDATA[]]></studyDataType>
+      <title><![CDATA[Visual topography of human intraparietal sulcus.]]></title>
+      <mslID><![CDATA[]]></mslID>
+      <parentID><![CDATA[]]></parentID>
+      <coreDataCompleted><![CDATA[]]></coreDataCompleted>
+      <completed><![CDATA[]]></completed>
+      <publicAccess><![CDATA[]]></publicAccess>
+      <StudyMetaDataProvenance>
+         <name><![CDATA[vanessen]]></name>
+         <date><![CDATA[20 Mar 2012]]></date>
+         <comment><![CDATA[Added all studies in Table 3 (VE_CC11b)]]></comment>
+      </StudyMetaDataProvenance>
+   </StudyMetaData>
+   <StudyMetaData>
+      <authors><![CDATA[Pitzalis S, Galletti C, Huang RS, Patria F, Committeri G, Galati G, Fattori P, Sereno MI]]></authors>
+      <citation><![CDATA[The Journal of neuroscience 2006; 26:7962-73]]></citation>
+      <comment><![CDATA[The retinotopic organization of a newly identified visual area near the midline in the dorsalmost part of the human parieto-occipital sulcus was mapped using high-field functional magnetic resonance imaging, cortical surface-based analysis, and wide-field retinotopic stimulation. This area was found in all 34 subjects that were mapped. It represents the contralateral visual hemifield in both hemispheres of all subjects, with upper fields located anterior and medial to areas V2/V3, and lower fields medial and slightly anterior to areas V3/V3A. It contains a representation of the center of gaze distinct from V3A, a large representation of the visual periphery, and a mirror-image representation of the visual field. Based on similarity in position, visuotopic organization, and relationship with the neighboring extrastriate visual areas, we suggest it might be the human homolog of macaque area V6, and perhaps of area M (medial) or DM (dorsomedial) of New World primates.]]></comment>
+      <dateAndTimeStamps><![CDATA[20_Mar_2012_18_58_51;]]></dateAndTimeStamps>
+      <documentObjectIdentifier><![CDATA[10.1523/JNEUROSCI.0178-06.2006]]></documentObjectIdentifier>
+      <keywords><![CDATA[]]></keywords>
+      <mesh><![CDATA[Evoked Potentials, Visual: physiology; Nerve Net: physiology; Occipital Lobe: physiology; Parietal Lobe: physiology; Visual Cortex: physiology; Visual Fields: physiology]]></mesh>
+      <name><![CDATA[Pitzalis_JN06]]></name>
+      <partitioningSchemeAbbreviation><![CDATA[]]></partitioningSchemeAbbreviation>
+      <partitioningSchemeFullName><![CDATA[]]></partitioningSchemeFullName>
+      <projectID><![CDATA[ProjID20120320185079301094]]></projectID>
+      <pubMedID><![CDATA[16870741]]></pubMedID>
+      <quality><![CDATA[]]></quality>
+      <species><![CDATA[]]></species>
+      <stereotaxicSpace><![CDATA[]]></stereotaxicSpace>
+      <stereotaxicSpaceDetails><![CDATA[]]></stereotaxicSpaceDetails>
+      <studyDataFormat><![CDATA[]]></studyDataFormat>
+      <studyDataType><![CDATA[]]></studyDataType>
+      <title><![CDATA[Wide-field retinotopy defines human cortical visual area v6.]]></title>
+      <mslID><![CDATA[]]></mslID>
+      <parentID><![CDATA[]]></parentID>
+      <coreDataCompleted><![CDATA[]]></coreDataCompleted>
+      <completed><![CDATA[]]></completed>
+      <publicAccess><![CDATA[]]></publicAccess>
+      <StudyMetaDataProvenance>
+         <name><![CDATA[vanessen]]></name>
+         <date><![CDATA[20 Mar 2012]]></date>
+         <comment><![CDATA[Added all studies in Table 3 (VE_CC11b)]]></comment>
+      </StudyMetaDataProvenance>
+   </StudyMetaData>
+   <StudyMetaData>
+      <authors><![CDATA[Hadjikhani N, Liu AK, Dale AM, Cavanagh P, Tootell RB]]></authors>
+      <citation><![CDATA[Nature neuroscience 1998; 1:235-41]]></citation>
+      <comment><![CDATA[Prior studies suggest the presence of a color-selective area in the inferior occipital-temporal region of human visual cortex. It has been proposed that this human area is homologous to macaque area V4, which is arguably color selective, but this has never been tested directly. To test this model, we compared the location of the human color-selective region to the retinotopic area boundaries in the same subjects, using functional magnetic resonance imaging (fMRI), cortical flattening and retinotopic mapping techniques. The human color-selective region did not match the location of area V4 (neither its dorsal nor ventral subdivisions), as extrapolated from macaque maps. Instead this region coincides with a new retinotopic area that we call 'V8', which includes a distinct representation of the fovea and both upper and lower visual fields. We also tested the response to stimuli that produce color afterimages and found that these stimuli, like real colors, caused preferential activation of V8 but not V4.]]></comment>
+      <dateAndTimeStamps><![CDATA[20_Mar_2012_18_58_51;]]></dateAndTimeStamps>
+      <documentObjectIdentifier><![CDATA[10.1038/681]]></documentObjectIdentifier>
+      <keywords><![CDATA[]]></keywords>
+      <mesh><![CDATA[Color Perception: physiology; Visual Cortex: physiology]]></mesh>
+      <name><![CDATA[Hadjikhani_NN08]]></name>
+      <partitioningSchemeAbbreviation><![CDATA[]]></partitioningSchemeAbbreviation>
+      <partitioningSchemeFullName><![CDATA[]]></partitioningSchemeFullName>
+      <projectID><![CDATA[ProjID20120320185177101095]]></projectID>
+      <pubMedID><![CDATA[10195149]]></pubMedID>
+      <quality><![CDATA[]]></quality>
+      <species><![CDATA[]]></species>
+      <stereotaxicSpace><![CDATA[]]></stereotaxicSpace>
+      <stereotaxicSpaceDetails><![CDATA[]]></stereotaxicSpaceDetails>
+      <studyDataFormat><![CDATA[]]></studyDataFormat>
+      <studyDataType><![CDATA[]]></studyDataType>
+      <title><![CDATA[Retinotopy and color sensitivity in human visual cortical area V8.]]></title>
+      <mslID><![CDATA[]]></mslID>
+      <parentID><![CDATA[]]></parentID>
+      <coreDataCompleted><![CDATA[]]></coreDataCompleted>
+      <completed><![CDATA[]]></completed>
+      <publicAccess><![CDATA[]]></publicAccess>
+      <StudyMetaDataProvenance>
+         <name><![CDATA[vanessen]]></name>
+         <date><![CDATA[20 Mar 2012]]></date>
+         <comment><![CDATA[Added all studies in Table 3 (VE_CC11b)]]></comment>
+      </StudyMetaDataProvenance>
+   </StudyMetaData>
+   <StudyMetaData>
+      <authors><![CDATA[Press WA, Brewer AA, Dougherty RF, Wade AR, Wandell BA]]></authors>
+      <citation><![CDATA[Vision research 2001; 41:1321-32]]></citation>
+      <comment><![CDATA[Functional MRI measurements can securely partition the human posterior occipital lobe into retinotopically organized visual areas (V1, V2 and V3) with experiments that last only 30 min. Methods for identifying functional areas in the dorsal and ventral aspect of the human occipital cortex, however, have not achieved this level of precision; in fact, different laboratories have produced inconsistent reports concerning the visual areas in dorsal and ventral occipital lobe. We report four findings concerning the visual representation in dorsal regions of occipital cortex. First, cortex near area V3A contains a central field representation that is distinct from the foveal representation at the confluence of areas V1, V2 and V3. Second, adjacent to V3A there is a second visual area, V3B, which represents both the upper and lower quadrants. The central representation in V3B appears to merge with that of V3A, much as the central representations of V1/2/3 come together on the lateral margin of the posterior pole. Third, there is yet another dorsal representation of the central visual field. This representation falls in area V7, which includes a representation of both the upper and lower quadrants of the visual field. Fourth, based on visual field and spatial summation measurements, it appears that the receptive field properties of neurons in area V7 differ from those in areas V3A and V3B.]]></comment>
+      <dateAndTimeStamps><![CDATA[20_Mar_2012_18_58_51;]]></dateAndTimeStamps>
+      <documentObjectIdentifier><![CDATA[]]></documentObjectIdentifier>
+      <keywords><![CDATA[]]></keywords>
+      <mesh><![CDATA[Brain Mapping; Visual Cortex: anatomy & histology; Visual Fields: physiology]]></mesh>
+      <name><![CDATA[Press_VisionRes01]]></name>
+      <partitioningSchemeAbbreviation><![CDATA[]]></partitioningSchemeAbbreviation>
+      <partitioningSchemeFullName><![CDATA[]]></partitioningSchemeFullName>
+      <projectID><![CDATA[ProjID20120320185252201096]]></projectID>
+      <pubMedID><![CDATA[11322977]]></pubMedID>
+      <quality><![CDATA[]]></quality>
+      <species><![CDATA[]]></species>
+      <stereotaxicSpace><![CDATA[]]></stereotaxicSpace>
+      <stereotaxicSpaceDetails><![CDATA[]]></stereotaxicSpaceDetails>
+      <studyDataFormat><![CDATA[]]></studyDataFormat>
+      <studyDataType><![CDATA[]]></studyDataType>
+      <title><![CDATA[Visual areas and spatial summation in human visual cortex.]]></title>
+      <mslID><![CDATA[]]></mslID>
+      <parentID><![CDATA[]]></parentID>
+      <coreDataCompleted><![CDATA[]]></coreDataCompleted>
+      <completed><![CDATA[]]></completed>
+      <publicAccess><![CDATA[]]></publicAccess>
+      <StudyMetaDataProvenance>
+         <name><![CDATA[vanessen]]></name>
+         <date><![CDATA[20 Mar 2012]]></date>
+         <comment><![CDATA[Added all studies in Table 3 (VE_CC11b)]]></comment>
+      </StudyMetaDataProvenance>
+   </StudyMetaData>
+   <StudyMetaData>
+      <authors><![CDATA[Burton H, Sinclair RJ, Wingert JR, Dierker DL]]></authors>
+      <citation><![CDATA[Somatosensory & motor research 2008; 25:149-62]]></citation>
+      <comment><![CDATA[We focused the present analysis on blood-oxygen-level-dependent responses evoked in four architectonic subdivisions of human posterior parietal operculum (PO) during two groups of tasks involving either vibrotactile stimulation or rubbing different surfaces against the right index finger pad. Activity localized in previously defined parietal opercular subdivisions, OP 1-4, was co-registered to a standard cortical surface-based atlas. Four vibrotactile stimulation tasks involved attention to the parameters of paired vibrations: (1) detect rare target trials when vibration frequencies matched; (2) select the presentation order of the vibration with a higher frequency or (3) longer duration; and (4) divide attention between frequency and duration before selecting stimulus order. Surface stimulation tasks involved various discriminations of different surfaces: (1) smooth surfaces required no discrimination; (2) paired horizontal gratings required determination of the direction of roughness change; (3) paired shapes entailed identifying matched and unmatched shapes; (4) raised letters involved letter recognition. The results showed activity in multiple somatosensory subdivisions bilaterally in human PO that are plausibly homologues of somatosensory areas previously described in animals. All tasks activated OP 1, but in vibrotactile tasks foci were more restricted compared to moving surface tasks. Greater spatial extents of activity especially in OP 1 and 4 when surfaces rubbed the finger pad did not support previously reported somatotopy of the second finger representation in "S2". The varied activity distributions across OP subdivisions may reflect low-level perceptual and/or cognitive processing differences between tasks.]]></comment>
+      <dateAndTimeStamps><![CDATA[20_Mar_2012_18_58_51;]]></dateAndTimeStamps>
+      <documentObjectIdentifier><![CDATA[10.1080/08990220802249275]]></documentObjectIdentifier>
+      <keywords><![CDATA[]]></keywords>
+      <mesh><![CDATA[Mechanoreceptors: physiology; Parietal Lobe: physiology; Somatosensory Cortex: physiology; Touch: physiology]]></mesh>
+      <name><![CDATA[Burton_SomatoMotorRes08]]></name>
+      <partitioningSchemeAbbreviation><![CDATA[]]></partitioningSchemeAbbreviation>
+      <partitioningSchemeFullName><![CDATA[]]></partitioningSchemeFullName>
+      <projectID><![CDATA[ProjID20120320185284501097]]></projectID>
+      <pubMedID><![CDATA[18821280]]></pubMedID>
+      <quality><![CDATA[]]></quality>
+      <species><![CDATA[]]></species>
+      <stereotaxicSpace><![CDATA[]]></stereotaxicSpace>
+      <stereotaxicSpaceDetails><![CDATA[]]></stereotaxicSpaceDetails>
+      <studyDataFormat><![CDATA[]]></studyDataFormat>
+      <studyDataType><![CDATA[]]></studyDataType>
+      <title><![CDATA[Multiple parietal operculum subdivisions in humans: tactile activation maps.]]></title>
+      <mslID><![CDATA[]]></mslID>
+      <parentID><![CDATA[]]></parentID>
+      <coreDataCompleted><![CDATA[]]></coreDataCompleted>
+      <completed><![CDATA[]]></completed>
+      <publicAccess><![CDATA[]]></publicAccess>
+      <StudyMetaDataProvenance>
+         <name><![CDATA[vanessen]]></name>
+         <date><![CDATA[20 Mar 2012]]></date>
+         <comment><![CDATA[Added all studies in Table 3 (VE_CC11b)]]></comment>
+      </StudyMetaDataProvenance>
+   </StudyMetaData>
+   <StudyMetaData>
+      <authors><![CDATA[Eickhoff SB, Stephan KE, Mohlberg H, Grefkes C, Fink GR, Amunts K, Zilles K]]></authors>
+      <citation><![CDATA[NeuroImage 2005; 25:1325-35]]></citation>
+      <comment><![CDATA[Correlating the activation foci identified in functional imaging studies of the human brain with structural (e.g., cytoarchitectonic) information on the activated areas is a major methodological challenge for neuroscience research. We here present a new approach to make use of three-dimensional probabilistic cytoarchitectonic maps, as obtained from the analysis of human post-mortem brains, for correlating microscopical, anatomical and functional imaging data of the cerebral cortex. We introduce a new, MATLAB based toolbox for the SPM2 software package which enables the integration of probabilistic cytoarchitectonic maps and results of functional imaging studies. The toolbox includes the functionality for the construction of summary maps combining probability of several cortical areas by finding the most probable assignment of each voxel to one of these areas. Its main feature is to provide several measures defining the degree of correspondence between architectonic areas and functional foci. The software, together with the presently available probability maps, is available as open source software to the neuroimaging community. This new toolbox provides an easy-to-use tool for the integrated analysis of functional and anatomical data in a common reference space.]]></comment>
+      <dateAndTimeStamps><![CDATA[20_Mar_2012_18_58_51;]]></dateAndTimeStamps>
+      <documentObjectIdentifier><![CDATA[10.1016/j.neuroimage.2004.12.034]]></documentObjectIdentifier>
+      <keywords><![CDATA[]]></keywords>
+      <mesh><![CDATA[Brain: anatomy & histology; Brain Mapping: methods; Image Processing, Computer-Assisted: methods]]></mesh>
+      <name><![CDATA[Eickhoff_NI05]]></name>
+      <partitioningSchemeAbbreviation><![CDATA[]]></partitioningSchemeAbbreviation>
+      <partitioningSchemeFullName><![CDATA[]]></partitioningSchemeFullName>
+      <projectID><![CDATA[ProjID20120320185324701098]]></projectID>
+      <pubMedID><![CDATA[15850749]]></pubMedID>
+      <quality><![CDATA[]]></quality>
+      <species><![CDATA[]]></species>
+      <stereotaxicSpace><![CDATA[]]></stereotaxicSpace>
+      <stereotaxicSpaceDetails><![CDATA[]]></stereotaxicSpaceDetails>
+      <studyDataFormat><![CDATA[]]></studyDataFormat>
+      <studyDataType><![CDATA[]]></studyDataType>
+      <title><![CDATA[A new SPM toolbox for combining probabilistic cytoarchitectonic maps and functional imaging data.]]></title>
+      <mslID><![CDATA[]]></mslID>
+      <parentID><![CDATA[]]></parentID>
+      <coreDataCompleted><![CDATA[]]></coreDataCompleted>
+      <completed><![CDATA[]]></completed>
+      <publicAccess><![CDATA[]]></publicAccess>
+      <StudyMetaDataProvenance>
+         <name><![CDATA[vanessen]]></name>
+         <date><![CDATA[20 Mar 2012]]></date>
+         <comment><![CDATA[Added all studies in Table 3 (VE_CC11b)]]></comment>
+      </StudyMetaDataProvenance>
+   </StudyMetaData>
+</StudyMetaData_File>

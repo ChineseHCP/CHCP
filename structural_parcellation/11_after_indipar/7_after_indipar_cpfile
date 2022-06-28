@@ -1,0 +1,18 @@
+
+DTI=/md_disk4/meizhen/CHCP/hcp_indipar/add5/;
+SUB_LIST=$DTI/a_code/sublist/sublist_hcp_add5.txt;
+
+DATA=/md_disk4/meizhen/CHCP/hcp_indipar/Parcel_Dice/;
+cd $DATA;
+
+for sub in `cat ${SUB_LIST}`
+do
+{
+mkdir $DATA/$sub;
+cp $DTI/$sub/${sub}_Cortex_R_matrix/label.nii $DATA/$sub/label_r.nii;
+cp $DTI/$sub/${sub}_Cortex_L_matrix/label.nii $DATA/$sub/label_l.nii;
+
+echo $sub;
+}
+done
+

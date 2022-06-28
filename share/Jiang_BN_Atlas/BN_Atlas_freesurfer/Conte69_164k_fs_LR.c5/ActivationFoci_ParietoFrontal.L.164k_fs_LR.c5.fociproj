@@ -1,0 +1,1117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Foci_Projection_File>
+   <FileHeader>
+      <Element>
+         <Name><![CDATA[Caret-Version]]></Name>
+         <Value><![CDATA[5.64]]></Value>
+      </Element>
+      <Element>
+         <Name><![CDATA[Date]]></Name>
+         <Value><![CDATA[2012-05-10T22:50:20]]></Value>
+      </Element>
+      <Element>
+         <Name><![CDATA[comment]]></Name>
+         <Value><![CDATA[]]></Value>
+      </Element>
+      <Element>
+         <Name><![CDATA[encoding]]></Name>
+         <Value><![CDATA[XML]]></Value>
+      </Element>
+      <Element>
+         <Name><![CDATA[pubmed_id]]></Name>
+         <Value><![CDATA[]]></Value>
+      </Element>
+   </FileHeader>
+   <CellProjection>
+      <cellProjNumber>0</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>72102 72032 72103</closestTileVertices>
+      <closestTileAreas>0.021351 0.002885 0.05022</closestTileAreas>
+      <cdistance>-1.274485 0.350107 0.852163</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-27.27 -59.099998 49.119999</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-27.27 -59.099998 49.119999</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-27.27 -59.099998 49.119999]]></xyz>
+         <SearchXYZ><![CDATA[-27.269999 -59.099995 49.119995]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Shulman_et_al_(2003)_Candidate_LIP_L]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[1.572599]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>1</cellProjNumber>
+      <projectionType><![CDATA[OUTSIDE]]></projectionType>
+      <closestTileVertices>0 0 0</closestTileVertices>
+      <closestTileAreas>0.0 0.0 0.0</closestTileAreas>
+      <cdistance>0.0 0.0 0.0</cdistance>
+      <dR>2.583457</dR>
+      <triFiducial>-29.167931 -57.605377 58.539143 -29.724064 -57.281143 58.851868 -29.817263 -57.250366 59.443962 -29.25701 -57.604034 59.095142 -29.167931 -57.605377 58.539143 -29.817263 -57.250366 59.443962</triFiducial>
+      <thetaR>0.195559</thetaR>
+      <phiR>0.082916</phiR>
+      <triVertices>73146 73147 73199 73198 73146 73199</triVertices>
+      <vertex>73146 73199</vertex>
+      <vertexFiducial>-29.167931 -57.605377 58.539143 -29.817263 -57.250366 59.443962</vertexFiducial>
+      <posFiducial>-30.0 -60.0 57.0</posFiducial>
+      <fracRI>1.24599</fracRI>
+      <fracRJ>2.24599</fracRJ>
+      <volumeXYZ>-30.0 -60.0 57.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-30.0 -60.0 57.0]]></xyz>
+         <SearchXYZ><![CDATA[-30.0 -60.0 57.0]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Orban_et_al_(2006)_Candidate_LIP_L]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[2.534215]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>2</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>73162 73163 73215</closestTileVertices>
+      <closestTileAreas>0.010304 0.136224 0.031549</closestTileAreas>
+      <cdistance>-0.94228 -0.531005 0.774758</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-36.0 -51.0 63.0</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-36.0 -51.0 63.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-36.0 -51.0 63.0]]></xyz>
+         <SearchXYZ><![CDATA[-36.000004 -51.000004 63.000004]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Orban_et_al_(2006)_DIPSA]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[1.330454]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>3</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>62271 62180 62272</closestTileVertices>
+      <closestTileAreas>0.040948 0.158145 0.117337</closestTileAreas>
+      <cdistance>0.627559 -0.266458 0.33279</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-18.0 -81.0 45.0</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-18.0 -81.0 45.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-18.0 -81.0 45.0]]></xyz>
+         <SearchXYZ><![CDATA[-17.999998 -81.0 45.000004]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Orban_et_al_(2006)_POIPS_L]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[0.758670]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>4</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>73162 73163 73215</closestTileVertices>
+      <closestTileAreas>0.010304 0.136224 0.031549</closestTileAreas>
+      <cdistance>-0.94228 -0.531005 0.774758</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-36.0 -51.0 63.0</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-36.0 -51.0 63.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-36.0 -51.0 63.0]]></xyz>
+         <SearchXYZ><![CDATA[-36.000004 -51.000004 63.000004]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Orban_et_al_(2006)_DIPSA_L]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[1.330454]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>5</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>59008 58886 59009</closestTileVertices>
+      <closestTileAreas>0.049936 0.120263 0.019216</closestTileAreas>
+      <cdistance>0.007973 0.01086 -0.001019</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-22.0 -62.0 60.0</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-22.0 -62.0 60.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-22.0 -62.0 60.0]]></xyz>
+         <SearchXYZ><![CDATA[-22.0 -62.000004 60.0]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Koyama_et_al_(2004)_Candidate_LIP_L]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[-0.013511]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>6</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>72753 72693 72754</closestTileVertices>
+      <closestTileAreas>0.044891 0.054655 0.055424</closestTileAreas>
+      <cdistance>-0.477597 -0.919655 -0.359093</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-28.0 -58.0 54.0</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-28.0 -58.0 54.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-28.0 -58.0 54.0]]></xyz>
+         <SearchXYZ><![CDATA[-27.999998 -58.0 54.0]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Koyama_et_al_(2004)_Ant_SPL_L]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[1.096728]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>7</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>59902 59788 59903</closestTileVertices>
+      <closestTileAreas>0.04099 0.069173 0.18544</closestTileAreas>
+      <cdistance>0.007655 0.008674 0.00462</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-22.0 -84.0 26.0</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-22.0 -84.0 26.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-22.0 -84.0 26.0]]></xyz>
+         <SearchXYZ><![CDATA[-22.0 -84.000008 26.000002]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Koyama_et_al_(2004)_IPS_TOS_L]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[-0.012457]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>8</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>29316 29228 29317</closestTileVertices>
+      <closestTileAreas>0.184706 0.015521 0.054186</closestTileAreas>
+      <cdistance>0.197963 0.926827 0.168967</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-26.0 -12.0 54.0</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-26.0 -12.0 54.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-26.0 -12.0 54.0]]></xyz>
+         <SearchXYZ><![CDATA[-26.000002 -12.0 54.0]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Koyama_et_al(2004)_Candidate_FEF_L]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[0.962677]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>9</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>31189 31190 31252</closestTileVertices>
+      <closestTileAreas>0.015684 0.094355 0.097831</closestTileAreas>
+      <cdistance>-3.21023 -1.435333 0.522922</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-24.0 -8.0 64.0</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-24.0 -8.0 64.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-24.0 -8.0 64.0]]></xyz>
+         <SearchXYZ><![CDATA[-24.0 -8.0 64.0]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Koyama_et_al(2004)_Candidate_PrCS_sup_L]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[3.555166]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>10</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>27584 27478 27585</closestTileVertices>
+      <closestTileAreas>0.117657 0.085762 0.09527</closestTileAreas>
+      <cdistance>-0.178368 -1.872093 0.274043</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-40.0 -8.0 52.0</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-40.0 -8.0 52.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-40.0 -8.0 52.0]]></xyz>
+         <SearchXYZ><![CDATA[-40.0 -8.0 52.0]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Koyama_et_al(2004)_Candidate_PrCS_inf_L]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[-1.900434]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>11</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>95764 95765 95844</closestTileVertices>
+      <closestTileAreas>0.07916 0.030815 0.001746</closestTileAreas>
+      <cdistance>0.063019 0.024758 0.017146</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-36.0 16.0 28.0</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-36.0 16.0 28.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-36.0 16.0 28.0]]></xyz>
+         <SearchXYZ><![CDATA[-36.0 15.999999 27.999996]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Hagler_and_Sereno(2006)_Candidate_pos_DLPFC_L]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[-0.069845]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>12</cellProjNumber>
+      <projectionType><![CDATA[OUTSIDE]]></projectionType>
+      <closestTileVertices>0 0 0</closestTileVertices>
+      <closestTileAreas>0.0 0.0 0.0</closestTileAreas>
+      <cdistance>0.0 0.0 0.0</cdistance>
+      <dR>1.652636</dR>
+      <triFiducial>-37.3405 -14.179866 49.579178 -37.686569 -14.01055 49.262287 -37.892113 -13.799683 50.171509 -37.3405 -14.179866 49.579178 -37.174877 -14.357544 48.623653 -37.686569 -14.01055 49.262287</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.014223</phiR>
+      <triVertices>25006 25007 25260 25006 41114 25007</triVertices>
+      <vertex>25007 25006</vertex>
+      <vertexFiducial>-37.686569 -14.01055 49.262287 -37.3405 -14.179866 49.579178</vertexFiducial>
+      <posFiducial>-36.0 -13.0 50.0</posFiducial>
+      <fracRI>2.597298</fracRI>
+      <fracRJ>1.597298</fracRJ>
+      <volumeXYZ>-36.0 -13.0 50.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-36.0 -13.0 50.0]]></xyz>
+         <SearchXYZ><![CDATA[-35.960304 -13.026898 49.94228]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Hagler_and_Sereno(2006)_Candidate_FEF_L]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[-1.651832]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>13</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>155134 155096 155135</closestTileVertices>
+      <closestTileAreas>0.049678 0.137401 0.131536</closestTileAreas>
+      <cdistance>-0.666812 -1.642221 1.166654</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-31.0 -5.0 49.0</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-31.0 -5.0 49.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-31.0 -5.0 49.0]]></xyz>
+         <SearchXYZ><![CDATA[-30.999998 -4.999999 49.0]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Hagler_and_Sereno(2006)_Candidate_preFEF_L]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[2.121936]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>14</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>98066 98024 98067</closestTileVertices>
+      <closestTileAreas>0.076404 0.063722 0.031209</closestTileAreas>
+      <cdistance>-0.059655 -0.737288 -0.663497</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-41.0 0.0 32.0</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-41.0 0.0 32.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-41.0 0.0 32.0]]></xyz>
+         <SearchXYZ><![CDATA[-41.0 -0.000001 32.0]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Hagler_and_Sereno(2006)_Candidate_inf_PCS_L]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[-0.993671]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>15</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>30996 30997 31062</closestTileVertices>
+      <closestTileAreas>0.041562 0.055178 0.082155</closestTileAreas>
+      <cdistance>-0.623802 -0.389054 0.15479</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-21.0 -8.0 63.0</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-21.0 -8.0 63.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-21.0 -8.0 63.0]]></xyz>
+         <SearchXYZ><![CDATA[-21.0 -8.0 63.0]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Kagan_et_al(2009)_MFEF_L]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[0.751300]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>16</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>28777 28778 28871</closestTileVertices>
+      <closestTileAreas>0.090189 0.235717 0.004924</closestTileAreas>
+      <cdistance>-0.80728 -0.981621 -0.250961</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-32.0 -11.0 51.0</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-32.0 -11.0 51.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-32.0 -11.0 51.0]]></xyz>
+         <SearchXYZ><![CDATA[-32.000004 -11.0 51.0]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Kagan_et_al(2009)_LFEF_L]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[-1.295477]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>17</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>98368 98369 98402</closestTileVertices>
+      <closestTileAreas>0.102262 0.043095 0.022838</closestTileAreas>
+      <cdistance>-0.209173 -0.765701 -0.655986</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-45.0 -1.0 34.0</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-45.0 -1.0 34.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-45.0 -1.0 34.0]]></xyz>
+         <SearchXYZ><![CDATA[-44.999996 -1.000001 34.0]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Kagan_et_al(2009)_pIFG_L]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[-1.029742]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>18</cellProjNumber>
+      <projectionType><![CDATA[OUTSIDE]]></projectionType>
+      <closestTileVertices>0 0 0</closestTileVertices>
+      <closestTileAreas>0.0 0.0 0.0</closestTileAreas>
+      <cdistance>0.0 0.0 0.0</cdistance>
+      <dR>2.730944</dR>
+      <triFiducial>-39.160343 -12.729381 54.873032 -39.367039 -12.508549 54.531796 -39.761986 -12.220784 55.377415 -39.160343 -12.729381 54.873032 -38.780521 -12.985821 54.021133 -39.367039 -12.508549 54.531796</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.013655</phiR>
+      <triVertices>25874 25875 25995 25874 25753 25875</triVertices>
+      <vertex>25875 25874</vertex>
+      <vertexFiducial>-39.367039 -12.508549 54.531796 -39.160343 -12.729381 54.873032</vertexFiducial>
+      <posFiducial>-38.0 -10.0 54.0</posFiducial>
+      <fracRI>2.177992</fracRI>
+      <fracRJ>3.177992</fracRJ>
+      <volumeXYZ>-38.0 -10.0 54.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-38.0 -10.0 54.0]]></xyz>
+         <SearchXYZ><![CDATA[-37.971718 -10.02261 53.968239]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Amiez_et_al(2006)_SPSv_L]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[-2.809461]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>19</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>29403 29404 29490</closestTileVertices>
+      <closestTileAreas>0.118195 0.076821 0.057978</closestTileAreas>
+      <cdistance>-0.01066 1.034139 0.237464</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-25.0 -12.0 54.0</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-25.0 -12.0 54.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-25.0 -12.0 54.0]]></xyz>
+         <SearchXYZ><![CDATA[-24.999998 -11.999998 53.999996]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Lobel_et_al(2001)_Deep_OMA_fMRI_L]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[1.061106]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>20</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>40071 40072 40123</closestTileVertices>
+      <closestTileAreas>0.094286 0.127977 0.003706</closestTileAreas>
+      <cdistance>0.708833 2.000194 -0.13094</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-45.0 -16.0 49.0</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-45.0 -16.0 49.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-45.0 -16.0 49.0]]></xyz>
+         <SearchXYZ><![CDATA[-45.0 -16.0 48.999996]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Lobel_et_al(2001)_Lat_OMA_fMRI_L]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[2.126115]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>21</cellProjNumber>
+      <projectionType><![CDATA[OUTSIDE]]></projectionType>
+      <closestTileVertices>0 0 0</closestTileVertices>
+      <closestTileAreas>0.0 0.0 0.0</closestTileAreas>
+      <cdistance>0.0 0.0 0.0</cdistance>
+      <dR>2.167868</dR>
+      <triFiducial>-25.119465 -4.065439 47.428795 -24.668982 -4.755172 47.10894 -25.076366 -4.983759 46.898109 -25.119465 -4.065439 47.428795 -24.735615 -3.836755 47.618309 -24.668982 -4.755172 47.10894</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.02989</phiR>
+      <triVertices>154758 154759 154805 154758 154711 154759</triVertices>
+      <vertex>154759 154758</vertex>
+      <vertexFiducial>-24.668982 -4.755172 47.10894 -25.119465 -4.065439 47.428795</vertexFiducial>
+      <posFiducial>-26.0 -2.0 46.0</posFiducial>
+      <fracRI>2.746871</fracRI>
+      <fracRJ>1.746871</fracRJ>
+      <volumeXYZ>-26.0 -2.0 46.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-26.0 -2.0 46.0]]></xyz>
+         <SearchXYZ><![CDATA[-25.558863 -1.777701 46.141933]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Lobel_et_al(2001)_Deep_OMA_Stim6]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[-2.244179]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>22</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>31614 31558 31615</closestTileVertices>
+      <closestTileAreas>0.127022 0.015678 0.039983</closestTileAreas>
+      <cdistance>-3.20896 -0.704727 -0.067759</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-23.0 0.0 59.0</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-23.0 0.0 59.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-23.0 0.0 59.0]]></xyz>
+         <SearchXYZ><![CDATA[-23.0 -0.0 58.999996]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Lobel_et_al(2001)_Deep_OMA_Stim11]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[3.286130]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>23</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>154835 154790 154836</closestTileVertices>
+      <closestTileAreas>0.102208 0.231221 0.103163</closestTileAreas>
+      <cdistance>-0.389101 0.570022 -0.764547</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-33.0 4.0 58.0</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-33.0 4.0 58.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-33.0 4.0 58.0]]></xyz>
+         <SearchXYZ><![CDATA[-33.0 3.999999 57.999996]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Lobel_et_al(2001)_Deep_OMA_Stim12]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[-1.029979]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>24</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>24248 24249 24284</closestTileVertices>
+      <closestTileAreas>0.010493 0.230129 0.036548</closestTileAreas>
+      <cdistance>-0.391235 -0.187494 0.072052</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-5.0 -3.0 56.0</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-5.0 -3.0 56.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-5.0 -3.0 56.0]]></xyz>
+         <SearchXYZ><![CDATA[-5.0 -3.0 56.0]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Amiez_and_Petrides_(2009)_CEF_L]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[-0.439784]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+   <CellProjection>
+      <cellProjNumber>25</cellProjNumber>
+      <projectionType><![CDATA[INSIDE]]></projectionType>
+      <closestTileVertices>31800 31801 31852</closestTileVertices>
+      <closestTileAreas>0.051288 0.001537 0.080985</closestTileAreas>
+      <cdistance>-0.152726 -0.165037 -0.247369</cdistance>
+      <dR>0.0</dR>
+      <triFiducial>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</triFiducial>
+      <thetaR>0.0</thetaR>
+      <phiR>0.0</phiR>
+      <triVertices>-1 -1 -1 -1 -1 -1</triVertices>
+      <vertex>-1 -1</vertex>
+      <vertexFiducial>0.0 0.0 0.0 0.0 0.0 0.0</vertexFiducial>
+      <posFiducial>-12.0 -9.0 71.0</posFiducial>
+      <fracRI>0.0</fracRI>
+      <fracRJ>0.0</fracRJ>
+      <volumeXYZ>-12.0 -9.0 71.0</volumeXYZ>
+      <duplicateFlag><![CDATA[false]]></duplicateFlag>
+      <CellBase>
+         <xyz><![CDATA[-12.0 -9.0 71.0]]></xyz>
+         <SearchXYZ><![CDATA[-11.999998 -8.999999 71.000008]]></SearchXYZ>
+         <sectionNumber>0</sectionNumber>
+         <name><![CDATA[Amiez_and_Petrides_(2009)_SEF_L]]></name>
+         <studyNumber>-1</studyNumber>
+         <geography><![CDATA[]]></geography>
+         <area><![CDATA[]]></area>
+         <regionOfInterest><![CDATA[]]></regionOfInterest>
+         <size>0.0</size>
+         <statistic><![CDATA[]]></statistic>
+         <comment><![CDATA[]]></comment>
+         <className><![CDATA[ActivationFoci]]></className>
+         <signedDistanceAboveSurface><![CDATA[-0.334296]]></signedDistanceAboveSurface>
+         <tagSumsIDNumber><![CDATA[-1]]></tagSumsIDNumber>
+         <tagSumsRepeatNumber><![CDATA[-1]]></tagSumsRepeatNumber>
+         <tagSumsParentCellBaseID><![CDATA[-1]]></tagSumsParentCellBaseID>
+         <tagSumsVersionNumber><![CDATA[-1]]></tagSumsVersionNumber>
+         <tagSumsMSLID><![CDATA[-1]]></tagSumsMSLID>
+         <tagAttributeID><![CDATA[-1]]></tagAttributeID>
+         <structure><![CDATA[left]]></structure>
+         <StudyMetaDataLinkSet/>
+      </CellBase>
+   </CellProjection>
+</Foci_Projection_File>
