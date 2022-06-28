@@ -1,5 +1,5 @@
 # Welcome to the Chinese Human Connectome Project (CHCP) repository!
-We are form Jia-Hong Gao’s Center for MRI Research (CMR).
+We are from Jia-Hong Gao’s Center for MRI Research (CMR).
 
 CHCP repository is a package that provides following useful tools:
 
