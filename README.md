@@ -1,16 +1,17 @@
 # Welcome to the Chinese Human Connectome Project (CHCP) repository!
-We are from Center for MRI Research (CMR) in Peking University, Beijing, China.
+We are from the Center for MRI Research (CMR) in Peking University, Beijing, China.
 
 CHCP repository is a package that provides following useful tools:
 
-Brain parcellation algorithms based on both structural and functional connectivity.
-Surface-based resting-state fMRI ReHo and fALFF calculation.
-Surface- and volume-based task fMRI analysis.
-The diversity of brain structural and functional parcellation analysis.
+- Brain parcellation algorithms based on both structural and functional connectivity.
+- Surface-based resting-state fMRI ReHo and fALFF calculation.
+- Surface- and volume-based task fMRI analysis.
+- The diversity of brain structural and functional parcellation analysis.
+
 Currently, CHCP mainly uses matlab, bash, python and only supports Linux system.
 
 ## Usage ##
-After cloning/downloading this repository, please see INSTRUCTION inside directory to see instructions on how to use this repository. If you have issues, please email Guoyuan Yang (yanggy.bit.edu.cn) and Meizhen Han (hanmeizhen@pku.edu.cn), we are will to help you to solve your problem.
+After cloning/downloading this repository, please see INSTRUCTION inside directory to see instructions on how to use this repository. If you have issues, please email Guoyuan Yang (yanggy@bit.edu.cn) and Meizhen Han (hanmeizhen@pku.edu.cn), we are willing to help you to solve your problem.
 
 Happy researching!
 
