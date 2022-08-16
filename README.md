@@ -31,7 +31,11 @@ Currently, CHCP mainly uses matlab, bash, python and only supports Linux system.
 5.	The ‘minimal preprocessing pipelines’ (Glasser et al., 2013), for more information, please see https://github.com/Washington-University/HCPpipelines.
 6.	Functional brain network parcellation framework with the code sharing by Prof. Thomas Yeo (https://github.com/ThomasYeoLab/CBIG).
 
-Getting Example Data
+-----
+
+<a id="Getting Example Data"></a>
+## Getting Example Data
+
 Example data for becoming familiar with the process of running the CHCP repository is available from the Chinese Human Connectome Project website (https://www.Chinese-HCP.cn).
 
 The organization pattern of the CHCP raw data is consistent with that of the HCP unpreprocessed data in Human Connectome Project website (https://www.humanconnectome.org). 
