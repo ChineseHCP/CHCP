@@ -58,7 +58,9 @@ Structural preprocessing is subdivided into 3 parts as a separate bash script do
 These shell scripts are named as follow, and located in the ${HCPPIPEDIR}/Examples/Scripts directory:
 
 `PreFreeSurferPipelineBatch.sh`
+
 `FreeSurferPipelineBatch.sh`
+
 `PostFreeSurferPipelineBatch.sh`
 
 The StudyFolder, Subjlist, and EnvironmentScript variables set at the top of the batch script need to be verified or edited as follow:
