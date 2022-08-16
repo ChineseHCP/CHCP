@@ -8,7 +8,7 @@ Currently, CHCP mainly uses matlab, bash, python and only supports Linux system.
 
 ## Table of Contents
 * [Prerequisities](#Prerequisities)
-* [Getting Example Data](#Getting Example Data)
+* [Getting example data](#Getting example data)
 * [Running the HCP Pipeline on Example Data](#Running the HCP Pipeline on Example Data)
   * [Structural Preprocessing](#Structural Preprocessing)
   * [Diffusion Preprocessing](#Diffusion Preprocessing)
@@ -34,7 +34,7 @@ Currently, CHCP mainly uses matlab, bash, python and only supports Linux system.
 -----
 
 <a id="getting example data"></a>
-## Getting Example Data
+## Getting example data
 
 Example data for becoming familiar with the process of running the CHCP repository is available from the Chinese Human Connectome Project website (https://www.Chinese-HCP.cn).
 
