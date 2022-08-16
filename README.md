@@ -1,4 +1,5 @@
 # Welcome to the Chinese Human Connectome Project (CHCP) repository!
+
 CHCP repository is a package that provides following useful tools:
 •	Brain parcellation algorithms based on both structural and functional connectivity.
 •	Surface-based resting-state fMRI ReHo and fALFF calculation.
@@ -8,7 +9,7 @@ Currently, CHCP mainly uses matlab, bash, python and only supports Linux system.
 
 ## Table of Contents
 * [Prerequisities](#prerequisities)
-* [Getting example data] (#getting-example-data)
+* [Getting example data](#getting-example-data)
 * [Running the HCP Pipeline on Example Data](#Running-the-HCP-Pipeline-on-Example-Data)
   * [Structural Preprocessing](#Structural-Preprocessing)
   * [Diffusion Preprocessing](#Diffusion-Preprocessing)
@@ -55,9 +56,11 @@ Data preprocessing uses the ‘minimal preprocessing pipelines’ (Glasser et al
 
 Structural preprocessing is subdivided into 3 parts as a separate bash script documented by HCP pipelines (https://github.com/Washington-University/HCPpipelines/wiki/Installation-and-Usage-Instructions), including Pre-FreeSurfer processing, FreeSurfer processing, and Post-FreeSurfer processing.
 These shell scripts are named as follow, and located in the ${HCPPIPEDIR}/Examples/Scripts directory:
-PreFreeSurferPipelineBatch.sh
-FreeSurferPipelineBatch.sh
-PostFreeSurferPipelineBatch.sh
+
+`PreFreeSurferPipelineBatch.sh`
+`FreeSurferPipelineBatch.sh`
+`PostFreeSurferPipelineBatch.sh`
+
 The StudyFolder, Subjlist, and EnvironmentScript variables set at the top of the batch script need to be verified or edited as follow:
 StudyFolder=”${HOME}/projects/CHCP/ExampleData”
 Subject=”3001”
