@@ -7,8 +7,8 @@ CHCP repository is a package that provides following useful tools:
 Currently, CHCP mainly uses matlab, bash, python and only supports Linux system.
 
 ## Table of Contents
-* [Prerequisities](#Prerequisities)
-* [Getting example data](#Getting example data)
+* [Prerequisities](#prerequisities)
+* [Getting example data](#getting example data)
 * [Running the HCP Pipeline on Example Data](#Running the HCP Pipeline on Example Data)
   * [Structural Preprocessing](#Structural Preprocessing)
   * [Diffusion Preprocessing](#Diffusion Preprocessing)
