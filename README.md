@@ -125,5 +125,10 @@ CBIG_Yeo2011_general_cluster_fcMRI_surf2surf_profiles.csh
 
 <a id="Others"></a>
 ### Others
-For other scripts and data descriptions of CHCP repository, please see INSTRUCTION inside directory. If you have issues, please email Guoyuan Yang (yanggy@bit.edu.cn) and Meizhen Han (hanmeizhen@pku.edu.cn), we are willing to help you to solve your problem.
+For other scripts and data descriptions of CHCP repository, please see [INSTRUCTION][INSTRUCTION] inside directory. If you have issues, please email Guoyuan Yang (yanggy@bit.edu.cn) and Meizhen Han (hanmeizhen@pku.edu.cn), we are willing to help you to solve your problem.
 Happy researching!
+
+
+<!-- References -->
+
+[INSTRUCTION]: https://github.com/ChineseHCP/CHCP/blob/main/INSTRUCTION.md
