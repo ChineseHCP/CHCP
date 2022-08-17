@@ -25,6 +25,10 @@ Currently, CHCP mainly uses matlab, bash, python and only supports Linux system.
 * [Additional Processing for Resting-state Functional MRI (rfMRI)](#Additional-Processing-for-Resting-state-Functional-MRI)
 * [Brain Parcellation Based on Diffusion MRI (dMRI)](#Brain-Parcellation-Based-on-Diffusion-MRI)
 * [Seven-network Atlas Construction Based on rfMRI](#Seven-network-Atlas-Construction-Based-on-rfMRI)
+* [Calculate ReHo and fALFF on Cortical Surface](#Calculate-ReHo-and-fALFF-on-Cortical-Surface)
+* [Topographical Differences of Structural Parcellation Between the CHCP and HCP](#[Topographical-Differences-of-Structural-Parcellation-Between-the-CHCP-and-HCP)
+* [The CHCP and HCP Seven-network Atlases Analysis](#The-CHCP-and-HCP-Seven-network-Atlases-Analysis)
+* [Task Analysis between the CHCP and HCP](#Task-Analysis-between-the-CHCP-and-HCP)
 * [Others](#Others)
 
 -----
