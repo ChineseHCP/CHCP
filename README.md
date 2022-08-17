@@ -2,12 +2,9 @@
 
 CHCP repository is a package that provides following useful tools:
 
- * Brain parcellation algorithms based on both structural and functional connectivity.
- * 
+ * Brain parcellation algorithms based on both structural and functional connectivity. 
  * Surface-based resting-state fMRI ReHo and fALFF calculation.
- * 
  * Surface- and volume-based task fMRI analysis.
- * 
  * The diversity of brain structural and functional parcellation analysis.
 
 Currently, CHCP mainly uses matlab, bash, python and only supports Linux system.
@@ -46,8 +43,8 @@ Currently, CHCP mainly uses matlab, bash, python and only supports Linux system.
 
 1. Install the listed prerequisities first.
  * Installation Notes for FSL
-  * Once you have downloaded and installed FSL, verify that you have the correct version of FSL by simply running hte `$ fsl` command. The FSL window that shows up should identify the version of FSL you have installed. Please follow the FSL version recommended by HCPpipelines.
-  * Sometimes FSL is installed without the separate documentation package, it is recommand to install the full of FSL documentation package.
+   * Once you have downloaded and installed FSL, verify that you have the correct version of FSL by simply running hte `$ fsl` command. The FSL window that shows up should identify the version of FSL you have installed. Please follow the FSL version recommended by HCPpipelines.
+   * Sometimes FSL is installed without the separate documentation package, it is recommand to install the full of FSL documentation package.
  * Installation Notes for FreeSurfer
 -----
 
