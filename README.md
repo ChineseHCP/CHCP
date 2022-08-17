@@ -195,6 +195,42 @@ Finally, the output rfMRI data were smoothed using a Gaussian smoothing kernel w
 
 Structural connectivity-based parcellations at the individual level for 140 demographically matched participants from CHCP and HCP datasets were generated using the technique proposed by Han and colleagues (Han et al., 2020). Then, the group-level brain pracellations were constructed based on the maximum probability maps for both CHCP and HCP datasets (Ge et al., 2022). For examples of how to use CHCP repository to construct structural parcellation, please take a look at scripts in structural parcellation folder in CHCP repository.
 
+The individualized connectivity-based parcellation approach included the following steps: 
+the output data from HCP preprocessing pipeline were first arranged with script: 
+
+- `1_prepare_file_for_hcp.sh`
+
+The population-based atlas was projected onto an individual’s cortical ribbon using forward and inverse nonlinear transformations. These probability-based cortical seeds were used as the initial conjecture of the anatomical parcellation of an individual’s cortex. The main scripts used for clustering are named as follow:
+
+- `3_coregister_T1w_to_b0_space/ coregister_T1w_to_b0.m`
+- `4_coregister_b0_to_MNI_space/ coregister_b0_to_MNI.m`
+- `5_registration_MNIBNA_to_b0_space/ registration_MNIBNA_to_b0.m`
+
+For each subject, the gray matter ribbon and the voxels located at the gray–white matter interface were combined to obtain a cortical ribbon, which served as a personalized cortical atlas mask. This step was performed with the main scripts as follow:
+
+- `6_reslice_aparc/ reslice_aparc_hcp.m`
+- `7_calc_indipar_mask/ calc_indipar_mask_hcp.m`
+
+Probabilistic tractography was performed to generate anatomical connectivity profiles of each probability cortical seed derived in the first step. specifically, the voxel-wise probabilistic tractography was performed at the voxels that fell within the personalized cortical atlas mask in diffusion data space by sampling 5000 streamline fibers to approximate its whole-brain connectivity pattern. The main scripts used for extracting coordinates of voxels in the cortical ribbon are named as follow, and located in the `${CHCP}/structural_parcellation/8_calc_coord/` directory:
+
+- `calc_indipar_coord_hcp.m9_ROI_probtrackx.m`
+
+The main scripts used for diffusion tractography are named as follow, and located in the `CHCP/structural_parcellation/9_ROI_probtrackx/` directory:
+
+- `ROI_probtrackx.sh`
+
+Then, the structural connectivity-based parcellation at the individual level for 140 demographically matched participants from CHCP and HCP datasets were generated using the technique proposed by Han and colleagues (Han et al., 2020). The main shell scripts used for parcellation are named as follow, and located in the `${CHCP}/structural_parcellation/10_indipar/` directory:
+
+- `indipar.m`
+
+Finally, as the individualized parcellation was performed in the subject’s native cortical ribbon space, volumetric cortical parcellation of each individual was registered and projected to the fsaverage surface template prior to subsequent analyses. The main shell scripts used for parcellation are named as follow, and located in the `${CHCP}/structural_parcellation/11_after_indipar/` directory:
+
+- `7_after_indipar_cpfile.sh`
+- `reslice_b0_space_to_ribbon.m`
+- `9_native2fsaverage.csh`
+
+
+
 -----
 
 <a id="Seven-network-Atlas-Construction-Based-on-rfMRI"></a>
