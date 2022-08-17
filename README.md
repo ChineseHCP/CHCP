@@ -3,10 +3,13 @@
 CHCP repository is a package that provides following useful tools:
 
  * Brain parcellation algorithms based on both structural and functional connectivity.
+ * 
  * Surface-based resting-state fMRI ReHo and fALFF calculation.
+ * 
  * Surface- and volume-based task fMRI analysis.
+ * 
  * The diversity of brain structural and functional parcellation analysis.
- 
+
 Currently, CHCP mainly uses matlab, bash, python and only supports Linux system.
 
 ## Table of Contents
