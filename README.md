@@ -59,35 +59,44 @@ Currently, CHCP mainly uses matlab, bash, python and only supports Linux system.
 2. Download the necessary compressed tar file (.tar.gz) for the [HCP Pipelines release][HCP Pipelines release].
 3. Move the compressed tar file that you download to the directory in which you want the HCP Pipelines to be installed, which refered as `${HCPPIPEDIR}`, e.g.
 
- - `$ mv Pipelines-4.0.0.tar.gz ~/projects`
+  - `$ mv Pipelines-4.0.0.tar.gz ~/projects`
 
 4. Extract the files from the compressed tar file, e.g.
 
- ```
- cd ~/projects
- tar xvf Pipelines-4.0.0.tar.gz
- ```
+  ```
+  cd ~/projects
+  tar xvf Pipelines-4.0.0.tar.gz
+  ```
+ 
 <a id="Install-CBIG"></a>
 ### Install CBIG
 
-1. After cloning/downloading the [CBIG repository][CBIG repository],  move the compressed zip file that you download to the directory in which you want the CBIG repository to be installed, which refered as `${CBIG}`, e.g.
+1. After cloning/downloading the [CBIG repository][CBIG repository], move the compressed zip file that you download to the directory in which you want the CBIG repository to be installed, which refered as `${CBIG}`, e.g.
 
- - `$ mv CBIG-master.zip ~/proects`
+  - `$ mv CBIG-master.zip ~/proects`
 
 2. Extract the file from the compressed zip file, e.g.
 
- ```
- cd ~/projects
- unzip -x CBIG-master.zip
- ```
+  ```
+  cd ~/projects
+  unzip -x CBIG-master.zip
+  ```
 
 3. Please see [README][README] inside `setup` directory to see how to set up your local environment to be compatible with our CBIG repository. 
 
 <a id="Install-CHCP"></a>
 ### Install CHCP
 
-1. Cloning/downloading the CHCP repository
+1. Cloning/downloading the CHCP repository, move the compressed zip file that you download to the directory in which you want the CHCP repository to be installed, which refered as `${CHCP}`, e.g.
 
+  - `$ mv CHCP-main.zip ~/proects`
+
+2. Extract the file from the compressed zip file, e.g.
+
+  ```
+  cd ~/projects
+  unzip -x CHCP-main.zip
+  ```
 
 -----
 
