@@ -11,6 +11,7 @@ Currently, CHCP mainly uses matlab, bash, python and only supports Linux system.
 
 ## Table of Contents
 * [Prerequisities](#prerequisities)
+* [Installation](#installation)
 * [Getting Example Data](#getting-example-data)
 * [Running the HCP Pipeline on Example Data](#Running-the-HCP-Pipeline-on-Example-Data)
   * [Structural Preprocessing](#Structural-Preprocessing)
@@ -35,6 +36,16 @@ Currently, CHCP mainly uses matlab, bash, python and only supports Linux system.
 5.	The HCP minimal preprocessing pipelines (Glasser et al., 2013), for more information, please see https://github.com/Washington-University/HCPpipelines.
 6.	Functional brain network parcellation framework with the code shared by Prof. Thomas Yeo (https://github.com/ThomasYeoLab/CBIG).
 
+-----
+
+<a id="installation"></a>
+## Installation
+
+1. Install the listed prerequisities first.
+ * Installation Notes for FSL
+  * Once you have downloaded and installed FSL, verify that you have the correct version of FSL by simply running hte `$ fsl` command. The FSL window that shows up should identify the version of FSL you have installed. Please follow the FSL version recommended by HCPpipelines.
+  * Sometimes FSL is installed without the separate documentation package, it is recommand to install the full of FSL documentation package.
+ * Installation Notes for FreeSurfer
 -----
 
 <a id="getting-example-data"></a>
