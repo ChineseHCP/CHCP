@@ -107,7 +107,7 @@ Currently, CHCP mainly uses matlab, bash, python and only supports Linux system.
 <a id="getting-example-data"></a>
 ## Getting Example Data
 
-Example data for becoming familiar with the process of running the CHCP repository is available from the Chinese Human Connectome Project website (https://www.Chinese-HCP.cn).
+Example data for becoming familiar with the process of running the CHCP repository is available from the Chinese Human Connectome Project website (https://www.Chinese-HCP.cn), or download an example data directly [here][here].
 
 The organization pattern of the CHCP raw data is consistent with that of the HCP unpreprocessed data in Human Connectome Project website (https://www.humanconnectome.org). 
 
@@ -119,7 +119,6 @@ The remainder of these instructions assumes you have extracted the example data 
 ## Running the HCP Pipelines on Example Data
 
 Data preprocessing uses the *‘minimal preprocessing pipelines’* (Glasser et al., 2013, https://github.com/Washington-University/HCPpipelines)
-
 
 <a id="Structural-Preprocessing"></a>
 ### Structural Preprocessing
@@ -268,3 +267,4 @@ Happy researching!
 [CBIG repository]: https://github.com/ThomasYeoLab/CBIG
 [README]: https://github.com/ThomasYeoLab/CBIG/blob/master/README.md
 [INSTRUCTION]: https://github.com/ChineseHCP/CHCP/blob/main/INSTRUCTION.md
+[here]: https://chinese-hcp.oss-cn-beijing.aliyuncs.com/CHCP_compressed/3003.zip
