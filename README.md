@@ -214,12 +214,10 @@ The main shell scripts used for clustering are named as follow, and located in t
 
 The `ReHo_fALFF` folder in CHCP repository contains the modified `DPABISurf_run_modified.m` files for calculating resting-state fMRI ReHo and fALFF in fs_LR32k grayordinates space (please see https://rfmri.org). After calculated the individualized ReHo and fALFF, the following code was used to average ReHo and fALFF of CHCP and HCP individuals.
 
-```
-average_surf_metric_ReHo_CHCP.m
-average_surf_metric_ReHo_HCP.m
-average_surf_metric_fALFF_CHCP.m
-average_surf_metric_fALFF_HCP.m
-```
+- `average_surf_metric_ReHo_CHCP.m`
+- `average_surf_metric_ReHo_HCP.m`
+- `average_surf_metric_fALFF_CHCP.m`
+- `average_surf_metric_fALFF_HCP.m`
 
 -----
 
@@ -228,12 +226,10 @@ average_surf_metric_fALFF_HCP.m
 
 The `chcp140_hcp140_structural_parcellation_Dice` folder contains the matlab files for calculating structrual parcellations' Dice coefficient. The calculation process is divided into 3 parts, from the step 1 to the step 3. For details, please refer to the following scripts.
 
-```
-step1_lh_pm.m
-step1_rh_pm.m
-step2_mpm_annotation.m
-step3_racial_variability.m
-```
+- `step1_lh_pm.m`
+- `step1_rh_pm.m`
+- `step2_mpm_annotation.m`
+- `step3_racial_variability.m`
 
 -----
 
@@ -249,10 +245,10 @@ The `functional_atlas_analysis` folder contains the matlab, shell and python fil
 
 The `task_analysis` folder contains the matlab and shell files for task analysis between CHCP and HCP datasets in Level 3 and reliability of the task-evoked activations across two sequential scans. Among them, the two-sample t-test and effect size calculation of CHCP and HCP task-state activation mainly use the following codes.
 
-```
-TaskfMRIAnalysisBatchlevel3_two_sample_ttest.sh
-TaskfMRIAnalysisBatchlevel3_two_sample_cohens_d.sh
-```
+
+- `TaskfMRIAnalysisBatchlevel3_two_sample_ttest.sh`
+- `TaskfMRIAnalysisBatchlevel3_two_sample_cohens_d.sh`
+
 
 The calculation of the test-retest reliability of task-state activation is measured using ICC, and the specific code implementation is shown below.
 
