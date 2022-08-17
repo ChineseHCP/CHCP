@@ -33,19 +33,56 @@ Currently, CHCP mainly uses matlab, bash, python and only supports Linux system.
 2.	The FMRIB Software Library (a.k.a. FSL) version 6.0.2 or greater installed and configuration file properly sourced. FSL 6.0.4 is recommended.
 3.	FreeSurfer version 6.0 available at http://surfer.nmr.mgh.harvard.edu/fswiki/DownloadAndInstall/
 4.	Connectome Workbench version 1.4.2 or later. Our CHCP scripts use the `wb_command` which is part of the Connectome Workbench created by HCP. 
-5.	The HCP minimal preprocessing pipelines (Glasser et al., 2013), for more information, please see https://github.com/Washington-University/HCPpipelines.
-6.	Functional brain network parcellation framework with the code shared by Prof. Thomas Yeo (https://github.com/ThomasYeoLab/CBIG).
+5.	The HCP Pipelines (Glasser et al., 2013), for more information, please see https://github.com/Washington-University/HCPpipelines.
+6.	The Computational Brain Imaging Group (CBIG) repository shared by Prof. Thomas Yeo (https://github.com/ThomasYeoLab/CBIG).
 
 -----
 
 <a id="installation"></a>
 ## Installation
 
+### Install HCP pipelines
 1. Install the listed prerequisities first.
  * Installation Notes for FSL
-   * Once you have downloaded and installed FSL, verify that you have the correct version of FSL by simply running hte `$ fsl` command. The FSL window that shows up should identify the version of FSL you have installed. Please follow the FSL version recommended by HCPpipelines.
+   * Once you have downloaded and installed FSL, verify that you have the correct version of FSL by simply running hte `$ fsl` command. The FSL window that shows up should identify the version of FSL you have installed. Please follow the FSL version recommended by HCP Pipelines.
    * Sometimes FSL is installed without the separate documentation package, it is recommand to install the full of FSL documentation package.
+ 
  * Installation Notes for FreeSurfer
+   * Considering the compatibility issue with HCP Pipelines, FreeSurfer version 6.0 is recommanded.
+   * Ubuntu (starting with version 12.04 and running through version 14.04 LTS) is missing a library that is used by some parts of FreeSurfer. To install that library enter `$ sudo apt-get install libjpeg62`.
+
+2. Download the necessary compressed tar file (.tar.gz) for the [HCP Pipelines release][HCP Pipelines release].
+3. Move the compressed tar file that you download to the directory in which you want the HCP Pipelines to be installed, which refered as `${HCPPIPEDIR}`, e.g.
+
+- `$ mv Pipelines-4.0.0.tar.gz ~/projects`
+
+4. Extract the files from the compressed tar file, e.g.
+
+```
+cd ~/projects
+tar xvf Pipelines-4.0.0.tar.gz
+```
+
+### Install CBIG
+
+1. After cloning/downloading the [CBIG repository][CBIG repository],  move the compressed zip file that you download to the directory in which you want the CBIG repository to be installed, which refered as `${CBIG}`, e.g.
+
+- `$ mv CBIG-master.zip ~/proects`
+
+2. Extract the file from the compressed zip file, e.g.
+
+```
+cd ~/projects
+unzip -x CBIG-master.zip
+```
+
+3. Please see [README][README] inside `setup` directory to see how to set up your local environment to be compatible with our CBIG repository. 
+
+### Install CHCP repository
+
+1. Cloning/downloading the CHCP repository
+
+
 -----
 
 <a id="getting-example-data"></a>
@@ -80,7 +117,7 @@ The `StudyFolder`, `Subjlist`, and `EnvironmentScript` variables set at the top 
 ```
 StudyFolder=”${HOME}/projects/CHCP/ExampleData”
 Subject=”3001”
-EnvironmentScript=”${HOME}/projects/Pipelines/Examples/Scripts/SetUpHCPPipeline.sh”
+EnvironmentScript=”${HCPPIPEDIR}/Examples/Scripts/SetUpHCPPipeline.sh”
 ```
 
 <a id="Diffusion-Preprocessing"></a>
@@ -123,7 +160,7 @@ See `${HCPPIPEDIR}/ICAFIX/README` for further details and `IcaFixProcessingBatch
 <a id="Additional-Processing-for-Resting-state-Functional-MRI"></a>
 ## Additional Processing for Resting-state Functional MRI (rfMRI)
 
-Additional processing steps to the rfMRI data in the fs_LR_32k surface were performed after ICA-FIX denoising as postprocessing using Computational Brain Imaging Group (CBIG) repository released by Prof. Thomas Yeo (https://github.com/ThomasYeoLab/CBIG). These additional processing including: i) regressing the global signal, averaged ventricular signal, six motion parameters, and their temporal derivatives (18 regressors). ii) motion censoring and interpolation, in which volumes with FD > 0.2 mm or DVARS > 75 were flagged as outliers. BOLD runs with more than half the volumes flagged as outliers were removed. iii) bandpass filtering (0.01-0.08 Hz).
+Additional processing steps to the rfMRI data in the fs_LR_32k surface were performed after ICA-FIX denoising as postprocessing using CBIG repository released by Prof. Thomas Yeo (https://github.com/ThomasYeoLab/CBIG). These additional processing including: i) regressing the global signal, averaged ventricular signal, six motion parameters, and their temporal derivatives (18 regressors). ii) motion censoring and interpolation, in which volumes with FD > 0.2 mm or DVARS > 75 were flagged as outliers. BOLD runs with more than half the volumes flagged as outliers were removed. iii) bandpass filtering (0.01-0.08 Hz).
 The names of these shell scripts are as follow, and located in the `${CBIGDIR}/stable_projects/preprocessing/CBIG_fMRI_Preproc2016` directory:
 
 - `CBIG_preproc_regression.csh`
@@ -161,5 +198,7 @@ Happy researching!
 
 
 <!-- References -->
-
+[HCP Pipelines release]: https://github.com/Washington-University/HCPpipelines/releases
+[CBIG repository]: https://github.com/ThomasYeoLab/CBIG
+[README]: https://github.com/ThomasYeoLab/CBIG/blob/master/README.md
 [INSTRUCTION]: https://github.com/ChineseHCP/CHCP/blob/main/INSTRUCTION.md
