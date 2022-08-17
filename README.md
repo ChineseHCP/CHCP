@@ -134,7 +134,7 @@ The `StudyFolder`, `Subjlist`, and `EnvironmentScript` variables set at the top 
 
 ```
 StudyFolder=”${HOME}/projects/CHCP/ExampleData”
-Subject=”3001”
+Subject=”3003”
 EnvironmentScript=”${HCPPIPEDIR}/Examples/Scripts/SetUpHCPPipeline.sh”
 ```
 
