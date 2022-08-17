@@ -26,7 +26,7 @@ Currently, CHCP mainly uses matlab, bash, python and only supports Linux system.
 * [Brain Parcellation Based on Diffusion MRI (dMRI)](#Brain-Parcellation-Based-on-Diffusion-MRI)
 * [Seven-network Atlas Construction Based on rfMRI](#Seven-network-Atlas-Construction-Based-on-rfMRI)
 * [Calculate ReHo and fALFF on Cortical Surface](#Calculate-ReHo-and-fALFF-on-Cortical-Surface)
-* [Topographical Differences of Structural Parcellation Between the CHCP and HCP](#[Topographical-Differences-of-Structural-Parcellation-Between-the-CHCP-and-HCP)
+* [Topographical Differences of Structural Parcellations Between the CHCP and HCP](#[Topographical-Differences-of-Structural-Parcellations-Between-the-CHCP-and-HCP)
 * [The CHCP and HCP Seven-network Atlases Analysis](#The-CHCP-and-HCP-Seven-network-Atlases-Analysis)
 * [Task Analysis between the CHCP and HCP](#Task-Analysis-between-the-CHCP-and-HCP)
 * [Others](#Others)
@@ -206,6 +206,57 @@ We used the clustering algorithm method to construct a population-level canonica
 The main shell scripts used for clustering are named as follow, and located in the `${CBIGDIR}/stable_projects/brain_parcellation/Yeo2011_fcMRI_clustering` directory:
 
 - `CBIG_Yeo2011_general_cluster_fcMRI_surf2surf_profiles.csh`
+
+-----
+
+<a id="Calculate-ReHo-and-fALFF-on-Cortical-Surface"></a>
+## Calculate ReHo and fALFF on Cortical Surface
+
+The `ReHo_fALFF` folder in CHCP repository contains the modified `DPABISurf_run_modified.m` files for calculating resting-state fMRI ReHo and fALFF in fs_LR32k grayordinates space (please see https://rfmri.org). After calculated the individualized ReHo and fALFF, the following code was used to average ReHo and fALFF of CHCP and HCP individuals.
+
+```
+average_surf_metric_ReHo_CHCP.m
+average_surf_metric_ReHo_HCP.m
+average_surf_metric_fALFF_CHCP.m
+average_surf_metric_fALFF_HCP.m
+```
+
+-----
+
+<a id="Topographical-Differences-of-Structural-Parcellations-Between-the-CHCP-and-HCP"></a>
+## Topographical Differences of Structural Parcellations Between the CHCP and HCP
+
+The `chcp140_hcp140_structural_parcellation_Dice` folder contains the matlab files for calculating structrual parcellations' Dice coefficient. The calculation process is divided into 3 parts, from the step 1 to the step 3. For details, please refer to the following scripts.
+
+```
+step1_lh_pm.m
+step1_rh_pm.m
+step2_mpm_annotation.m
+step3_racial_variability.m
+```
+
+-----
+
+<a id="The-CHCP-and-HCP-Seven-network-Atlases-Analysis"></a>
+## The CHCP and HCP Seven-network Atlases Analysis
+
+The `functional_atlas_analysis` folder contains the matlab, shell and python files for seven-network atlases analysis between CHCP and HCP datasets. These scripts including Dice coefficient calculation, GLM regression, surface area calculation and FDR correction. For detailed functions, please refer to the specific script in the folder.
+
+-----
+
+<a id="Task-Analysis-between-the-CHCP-and-HCP"></a>
+## Task Analysis between the CHCP and HCP
+
+The `task_analysis` folder contains the matlab and shell files for task analysis between CHCP and HCP datasets in Level 3 and reliability of the task-evoked activations across two sequential scans. Among them, the two-sample t-test and effect size calculation of CHCP and HCP task-state activation mainly use the following codes.
+
+```
+TaskfMRIAnalysisBatchlevel3_two_sample_ttest.sh
+TaskfMRIAnalysisBatchlevel3_two_sample_cohens_d.sh
+```
+
+The calculation of the test-retest reliability of task-state activation is measured using ICC, and the specific code implementation is shown below.
+
+- `Calculate_CHCP_ICC.m`
 
 -----
 
